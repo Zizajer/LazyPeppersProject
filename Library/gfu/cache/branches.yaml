@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-04-26T18:23:12.891+02:00
-  initializedAtString: 2019-04-26T18:23:12.868+02:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2019-04-26T18:35:42.535+02:00
+  initializedAtString: 2019-04-26T18:35:42.510+02:00
+  localBranches:
+  - name: master
+    tracking: 
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/Zizajer/LazyPeppersProject.git
@@ -26,12 +30,27 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/Zizajer/LazyPeppersProject.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
