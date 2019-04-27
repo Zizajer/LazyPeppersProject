@@ -20,8 +20,6 @@ public class PacmanMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(direction);
-
         if(Input.GetKey(KeyCode.UpArrow))
         {
             direction = 1;

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ObstacleCreator : MonoBehaviour
 {
-    public GameObject Obstacle;
+    public GameObject[] Obstacles;
     public float CreatedObstacleSpeed;
     public float MinimumTimeToCreate;
     public float MaximumTimeToCreate;
@@ -23,7 +23,7 @@ public class ObstacleCreator : MonoBehaviour
 
     void CreateObstacle()
     {
-        GameObject CreatedObstacle = Instantiate(Obstacle, transform.position, new Quaternion(0,0,0,0));
+        GameObject CreatedObstacle = Instantiate(Obstacles[Random.Range(0,Obstacles.Length-1)], transform.position, new Quaternion(0,0,0,0));
         CreatedObstacle.GetComponent<ObstacleMovement>().MovementSpeed = CreatedObstacleSpeed;
         Invoke("CreateObstacle", Random.Range(MinimumTimeToCreate, MaximumTimeToCreate));
     }

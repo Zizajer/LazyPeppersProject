@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-27T16:11:35.455+02:00
+  lastUpdatedAtString: 2019-04-27T18:04:03.115+02:00
   initializedAtString: 2019-04-27T15:50:47.495+02:00
   entries:
   - path: .vs\LazyPeppersProject\v15\.suo
@@ -22,59 +22,59 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide
+  - path: Assets\Prefabs\CircleCharlie\Frogger\Obstacle.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\Frogger\Obstacle.prefab
+    projectPath: Assets\Prefabs\CircleCharlie\Frogger\Obstacle.prefab
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-shm
+  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
+    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
+  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
+    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
+    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
+    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\CircleCharlie\Ring.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\Ring.prefab
+    projectPath: Assets\Prefabs\CircleCharlie\Ring.prefab
+    originalPath: 
+    status: 1
     staged: 0
   - path: Assets\Prefabs\Frogger\Obstacle.prefab
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Obstacle.prefab
     projectPath: Assets\Prefabs\Frogger\Obstacle.prefab
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\ObstacleCreator.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\ObstacleCreator.prefab
-    projectPath: Assets\Prefabs\ObstacleCreator.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\Pacman\Player.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Pacman\Player.prefab
-    projectPath: Assets\Prefabs\Pacman\Player.prefab
-    originalPath: 
-    status: 3
+    status: 5
     staged: 0
   - path: Assets\Scenes\CircusCharlie.unity
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\CircusCharlie.unity
     projectPath: Assets\Scenes\CircusCharlie.unity
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\Frogger.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Frogger.unity
-    projectPath: Assets\Scenes\Frogger.unity
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\Scenes\Pacman.unity
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Pacman.unity
@@ -82,41 +82,23 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scripts\CircusCharlie\CircusCharlieCameraMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\CircusCharlie\CircusCharlieCameraMovement.cs
-    projectPath: Assets\Scripts\CircusCharlie\CircusCharlieCameraMovement.cs
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
     projectPath: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\Scripts\CircusCharlie\CircusCharliePlayerMovement.cs
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\CircusCharlie\CircusCharliePlayerMovement.cs
     projectPath: Assets\Scripts\CircusCharlie\CircusCharliePlayerMovement.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\FroggerPlayerMovement.cs
-    projectPath: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\Scripts\Frogger\ObstacleCreator.cs
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\ObstacleCreator.cs
     projectPath: Assets\Scripts\Frogger\ObstacleCreator.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\Frogger\ObstacleMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\ObstacleMovement.cs
-    projectPath: Assets\Scripts\Frogger\ObstacleMovement.cs
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\Scripts\Pacman\PacmanMovement.cs
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pacman\PacmanMovement.cs
@@ -124,129 +106,87 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Sprites\dzieck.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\dzieck.png
-    projectPath: Assets\Sprites\dzieck.png
+  - path: Assets\Sprites\bricks\asap.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\asap.png
+    projectPath: Assets\Sprites\bricks\asap.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\jusia_arkanoid.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\jusia_arkanoid.png
-    projectPath: Assets\Sprites\jusia_arkanoid.png
+  - path: Assets\Sprites\bricks\bhp.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\bhp.png
+    projectPath: Assets\Sprites\bricks\bhp.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\piotrek_head.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\piotrek_head.png
-    projectPath: Assets\Sprites\piotrek_head.png
+  - path: Assets\Sprites\bricks\budzet.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\budzet.png
+    projectPath: Assets\Sprites\bricks\budzet.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\Pong\arkanoid.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\arkanoid.png
-    projectPath: Assets\Sprites\Pong\arkanoid.png
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\Pong\arkanoid.png.meta
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\arkanoid.png.meta
-    projectPath: Assets\Sprites\Pong\arkanoid.png.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\Pong\arkanoid_odepchniecie.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\arkanoid_odepchniecie.png
-    projectPath: Assets\Sprites\Pong\arkanoid_odepchniecie.png
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\Pong\arkanoid_odepchniecie.png.meta
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\arkanoid_odepchniecie.png.meta
-    projectPath: Assets\Sprites\Pong\arkanoid_odepchniecie.png.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\Pong\arkanoid_szlug.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\arkanoid_szlug.png
-    projectPath: Assets\Sprites\Pong\arkanoid_szlug.png
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\Pong\arkanoid_szlug.png.meta
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\arkanoid_szlug.png.meta
-    projectPath: Assets\Sprites\Pong\arkanoid_szlug.png.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\Pong\TYPIARA.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\TYPIARA.png
-    projectPath: Assets\Sprites\Pong\TYPIARA.png
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\Pong\TYPIARA.png.meta
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\Pong\TYPIARA.png.meta
-    projectPath: Assets\Sprites\Pong\TYPIARA.png.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Sprites\psychodymki\chcialabym1.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\psychodymki\chcialabym1.png
-    projectPath: Assets\Sprites\psychodymki\chcialabym1.png
+  - path: Assets\Sprites\bricks\deadline.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\deadline.png
+    projectPath: Assets\Sprites\bricks\deadline.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\psychodymki\jestesmy_razem.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\psychodymki\jestesmy_razem.png
-    projectPath: Assets\Sprites\psychodymki\jestesmy_razem.png
+  - path: Assets\Sprites\bricks\faktura.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\faktura.png
+    projectPath: Assets\Sprites\bricks\faktura.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\psychodymki\juz_czas.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\psychodymki\juz_czas.png
-    projectPath: Assets\Sprites\psychodymki\juz_czas.png
+  - path: Assets\Sprites\bricks\klient.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\klient.png
+    projectPath: Assets\Sprites\bricks\klient.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\psychodymki\kochanie_pobierzmy_sie_1.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\psychodymki\kochanie_pobierzmy_sie_1.png
-    projectPath: Assets\Sprites\psychodymki\kochanie_pobierzmy_sie_1.png
+  - path: Assets\Sprites\bricks\kosztorys.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\kosztorys.png
+    projectPath: Assets\Sprites\bricks\kosztorys.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\psychodymki\kolezanki.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\psychodymki\kolezanki.png
-    projectPath: Assets\Sprites\psychodymki\kolezanki.png
+  - path: Assets\Sprites\bricks\kpi.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\kpi.png
+    projectPath: Assets\Sprites\bricks\kpi.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\ring_half.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\ring_half.png
-    projectPath: Assets\Sprites\ring_half.png
+  - path: Assets\Sprites\bricks\raport.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\raport.png
+    projectPath: Assets\Sprites\bricks\raport.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Sprites\ring_whole.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\ring_whole.png
-    projectPath: Assets\Sprites\ring_whole.png
+  - path: Assets\Sprites\bricks\spotkanie.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\spotkanie.png
+    projectPath: Assets\Sprites\bricks\spotkanie.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\jusia_head.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\jusia_head.png
+    projectPath: Assets\Sprites\jusia_head.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\komornik_head.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\komornik_head.png
+    projectPath: Assets\Sprites\komornik_head.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\piotrek_head_noshoulders.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\piotrek_head_noshoulders.png
+    projectPath: Assets\Sprites\piotrek_head_noshoulders.png
     originalPath: 
     status: 1
     staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
     projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\CurrentLayout.dwlt
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\expandedItems
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\expandedItems
-    projectPath: Library\expandedItems
     originalPath: 
     status: 3
     staged: 0
@@ -292,72 +232,6 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\06\06492ef2bc22fd541b5cfa938d55ad82
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\06\06492ef2bc22fd541b5cfa938d55ad82
-    projectPath: Library\metadata\06\06492ef2bc22fd541b5cfa938d55ad82
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\06\06492ef2bc22fd541b5cfa938d55ad82.info
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\06\06492ef2bc22fd541b5cfa938d55ad82.info
-    projectPath: Library\metadata\06\06492ef2bc22fd541b5cfa938d55ad82.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\15\1508952c3599e184396fd7801df5d624
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\15\1508952c3599e184396fd7801df5d624
-    projectPath: Library\metadata\15\1508952c3599e184396fd7801df5d624
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\15\1508952c3599e184396fd7801df5d624.info
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\15\1508952c3599e184396fd7801df5d624.info
-    projectPath: Library\metadata\15\1508952c3599e184396fd7801df5d624.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\30\30d3583d33cdff44ebf77ded1a03f17d
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\30\30d3583d33cdff44ebf77ded1a03f17d
-    projectPath: Library\metadata\30\30d3583d33cdff44ebf77ded1a03f17d
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\30\30d3583d33cdff44ebf77ded1a03f17d.info
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\30\30d3583d33cdff44ebf77ded1a03f17d.info
-    projectPath: Library\metadata\30\30d3583d33cdff44ebf77ded1a03f17d.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b
-    projectPath: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b.info
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b.info
-    projectPath: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\b0\b01aaf65529eaf2448a7181dfbef45d4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\b0\b01aaf65529eaf2448a7181dfbef45d4
-    projectPath: Library\metadata\b0\b01aaf65529eaf2448a7181dfbef45d4
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\b0\b01aaf65529eaf2448a7181dfbef45d4.info
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\b0\b01aaf65529eaf2448a7181dfbef45d4.info
-    projectPath: Library\metadata\b0\b01aaf65529eaf2448a7181dfbef45d4.info
-    originalPath: 
-    status: 5
-    staged: 0
   - path: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
     projectPath: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
@@ -376,42 +250,6 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -427,24 +265,6 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\747686-mainStage.json
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\SceneView\747686-mainStage.json
     projectPath: Library\StateCache\SceneView\747686-mainStage.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     status: 3
     staged: 0
