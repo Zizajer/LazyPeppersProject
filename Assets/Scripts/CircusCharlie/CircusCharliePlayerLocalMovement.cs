@@ -7,26 +7,30 @@ public class CircusCharliePlayerLocalMovement : MonoBehaviour
     public float JumpForce;
     public float MoveForce;
     private Rigidbody2D rigidbody2D;
-    private bool isGround;
-    private bool isJump;
+    private bool canJump;
 
     // Start is called before the first frame update
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
-        isGround = true;
-        isJump = false;
+        canJump = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.RightArrow))
-            rigidbody2D.AddForce(Vector2.right * MoveForce);
-        if (Input.GetKey(KeyCode.LeftArrow))
-            rigidbody2D.AddForce(Vector2.left * MoveForce);
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.UpArrow) && canJump)
+        {
+            canJump = false;
             rigidbody2D.AddForce(Vector2.up * JumpForce);
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.tag == "ground")
+        {
+            canJump = true;
+        }
     }
 }
 

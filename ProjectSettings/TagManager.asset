@@ -11,6 +11,7 @@ TagManager:
   - AIPongPlayer
   - Wall
   - Obstacle
+  - ground
   layers:
   - Default
   - TransparentFX

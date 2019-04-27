@@ -60,9 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CircusCharlie\BackgroundScrolling.cs" />
     <Compile Include="Assets\Scripts\CircusCharlie\CircusCharlieCameraMovement.cs" />
     <Compile Include="Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs" />
     <Compile Include="Assets\Scripts\CircusCharlie\CircusCharliePlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\CircusCharlie\EndlessBackground.cs" />
+    <Compile Include="Assets\Scripts\Frogger\FroggerCameraMovement.cs" />
     <Compile Include="Assets\Scripts\Frogger\FroggerPlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Frogger\ObstacleCreator.cs" />
     <Compile Include="Assets\Scripts\Frogger\ObstacleMovement.cs" />

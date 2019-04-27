@@ -13,9 +13,261 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-27T20:44:32.055+02:00
-  initializedAtString: 2019-04-27T15:50:47.221+02:00
+  lastUpdatedAtString: 2019-04-28T00:23:05.811+02:00
+  initializedAtString: 2019-04-27T23:32:35.669+02:00
   log:
+  - commitID: ad8a5c464f9601380ae27480b9a93a0e75781fa8
+    mergeA: 
+    mergeB: 
+    authorName: Piotr
+    authorEmail: zizi5673@gmail.com
+    commitEmail: zizi5673@gmail.com
+    commitName: Piotr
+    summary: Changed physics for Pacman Variation. Added new sprites.
+    description: Changed physics for Pacman Variation. Added new sprites.
+    timeString: 2019-04-27T20:45:10.000+02:00
+    commitTimeString: 2019-04-27T20:45:10.000+02:00
+    changes:
+    - path: .vs\LazyPeppersProject\v15\.suo
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
+      projectPath: .vs\LazyPeppersProject\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\asap.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\asap.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\asap.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\bhp.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\bhp.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\bhp.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\budzet.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\budzet.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\budzet.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\deadline.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\deadline.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\deadline.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\faktura.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\faktura.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\faktura.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\kosztorys.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\kosztorys.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\kosztorys.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\kpi.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\kpi.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\kpi.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\raport.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\raport.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\raport.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Frogger\Bricks\spotkanie.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\spotkanie.prefab
+      projectPath: Assets\Prefabs\Frogger\Bricks\spotkanie.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Obstacle.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Obstacle.prefab
+      projectPath: Assets\Prefabs\Obstacle.prefab
+      originalPath: Assets\Prefabs\CircleCharlie\Frogger\Obstacle.prefab
+      status: 6
+      staged: 0
+    - path: Assets\Prefabs\Pacman\Player.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Pacman\Player.prefab
+      projectPath: Assets\Prefabs\Pacman\Player.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\wall.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\wall.prefab
+      projectPath: Assets\Prefabs\wall.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\CircusCharlie.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\CircusCharlie.unity
+      projectPath: Assets\Scenes\CircusCharlie.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Frogger.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Frogger.unity
+      projectPath: Assets\Scenes\Frogger.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Pacman.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Pacman.unity
+      projectPath: Assets\Scenes\Pacman.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Pacman.unity.meta
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Pacman.unity.meta
+      projectPath: Assets\Scenes\Pacman.unity.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Pong.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Pong.unity
+      projectPath: Assets\Scenes\Pong.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\Pacman\PacmanMovement.cs
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pacman\PacmanMovement.cs
+      projectPath: Assets\Scripts\Pacman\PacmanMovement.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\Pong\Ball.cs
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pong\Ball.cs
+      projectPath: Assets\Scripts\Pong\Ball.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Sprites\bricks\klient.png
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\bricks\klient.png
+      projectPath: Assets\Sprites\bricks\klient.png
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\Hierarchy\bc2425-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\SceneView\747686-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\SceneView\747686-mainStage.json
+      projectPath: Library\StateCache\SceneView\747686-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\30\3027b70f1cce59942b51670fa615ecdb
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\30\3027b70f1cce59942b51670fa615ecdb
+      projectPath: Library\metadata\30\3027b70f1cce59942b51670fa615ecdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\30\3027b70f1cce59942b51670fa615ecdb.info
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\30\3027b70f1cce59942b51670fa615ecdb.info
+      projectPath: Library\metadata\30\3027b70f1cce59942b51670fa615ecdb.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\46\467448a130f3dff4d9d3370ffc6ef790
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\46\467448a130f3dff4d9d3370ffc6ef790
+      projectPath: Library\metadata\46\467448a130f3dff4d9d3370ffc6ef790
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b
+      projectPath: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b.info
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b.info
+      projectPath: Library\metadata\89\89ab51236c01e57449d25e0c1042ac4b.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+      projectPath: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 9a8a5e627597370295097b11e82ccd6d52ca652c
     mergeA: 
     mergeB: 

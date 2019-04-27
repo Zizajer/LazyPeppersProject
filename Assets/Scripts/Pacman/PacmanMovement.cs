@@ -9,12 +9,12 @@ public class PacmanMovement : MonoBehaviour
     //0-noMove,1-Up,2-Down,3-Left,4-Right TO-DO change for ENUM
     public int direction;
     public float Force;
+    private int lastKnownDirection;
     
 
     // Start is called before the first frame update
     void Start()
     {
-        direction = 0;
         rigidbody2D = GetComponent<Rigidbody2D>();
     }
 
@@ -37,13 +37,15 @@ public class PacmanMovement : MonoBehaviour
         {
             direction = 4;
         }
+
+        
     }
 
     private void FixedUpdate()
     {
         MoveByForce(direction);
     }
-
+/*
     private void Move(int direction)
     {
         if (direction == 1)
@@ -66,27 +68,31 @@ public class PacmanMovement : MonoBehaviour
             rigidbody2D.velocity = new Vector2(0, 0);
             rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(MovementSpeed * Time.deltaTime, 0));
         }
-    }
+    }*/
 
     private void MoveByForce(int direction)
     {
-        if (direction == 1)
+        if (direction == 1 && lastKnownDirection!=1)
         {
+            lastKnownDirection = direction;
             rigidbody2D.velocity = new Vector2(0, 0);
             rigidbody2D.AddForce(Vector2.up * Force);
         }
-        if (direction == 2)
+        if (direction == 2 && lastKnownDirection != 2)
         {
+            lastKnownDirection = direction;
             rigidbody2D.velocity = new Vector2(0, 0);
             rigidbody2D.AddForce(Vector2.down * Force);
         }
-        if (direction == 3)
+        if (direction == 3 && lastKnownDirection != 3)
         {
+            lastKnownDirection = direction;
             rigidbody2D.velocity = new Vector2(0, 0);
             rigidbody2D.AddForce(Vector2.left * Force);
         }
-        if (direction == 4)
+        if (direction == 4 && lastKnownDirection != 4)
         {
+            lastKnownDirection = direction;
             rigidbody2D.velocity = new Vector2(0, 0);
             rigidbody2D.AddForce(Vector2.right * Force);
         }
@@ -101,8 +107,9 @@ public class PacmanMovement : MonoBehaviour
         }
         if(collision.tag == "Wall")
         {
+            lastKnownDirection = direction;
+            Debug.Log(lastKnownDirection);
             rigidbody2D.velocity = new Vector2(0,0);
-            direction = 0;
         }
     }
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FroggerPlayerMovement : MonoBehaviour
 {
-    private float MovementSpeed = 1;
+    public float MovementSpeed;
 
     // Start is called before the first frame update
     void Start()
