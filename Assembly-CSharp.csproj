@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Pacman\ChangePoint.cs" />
     <Compile Include="Assets\Scripts\Pacman\PacmanMovement.cs" />
+    <Compile Include="Assets\Scripts\Pong\AIPongPlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Pong\Ball.cs" />
     <Compile Include="Assets\Scripts\Pong\PongPlayerMovement.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

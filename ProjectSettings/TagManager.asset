@@ -8,6 +8,8 @@ TagManager:
   - PongPlayer
   - PlayerGoal
   - AIPlayerGoal
+  - AIPongPlayer
+  - Wall
   layers:
   - Default
   - TransparentFX
