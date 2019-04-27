@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
-    width: 1366
-    height: 685
+    x: 8
+    y: 51
+    width: 1350
+    height: 676
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 3}
@@ -66,8 +66,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
-    height: 685
+    width: 1350
+    height: 676
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
@@ -87,7 +87,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
+    width: 1350
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -108,8 +108,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 665
-    width: 1366
+    y: 656
+    width: 1350
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -131,12 +131,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1366
-    height: 635
-  m_MinSize: {x: 538, y: 622}
+    width: 1350
+    height: 626
+  m_MinSize: {x: 713, y: 622}
   m_MaxSize: {x: 18008, y: 18072}
   vertical: 1
-  controlID: 29
+  controlID: 144
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -156,12 +156,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
-    height: 635
-  m_MinSize: {x: 538, y: 622}
+    width: 1350
+    height: 626
+  m_MinSize: {x: 713, y: 622}
   m_MaxSize: {x: 18008, y: 18072}
   vertical: 0
-  controlID: 30
+  controlID: 145
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -181,12 +181,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 854
-    height: 635
+    width: 844
+    height: 626
   m_MinSize: {x: 436, y: 622}
   m_MaxSize: {x: 14006, y: 18072}
   vertical: 1
-  controlID: 148
+  controlID: 45
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,12 +206,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 854
-    height: 237
+    width: 844
+    height: 228
   m_MinSize: {x: 306, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 180
+  controlID: 46
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,8 +229,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 623
-    height: 237
+    width: 616
+    height: 228
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 20}
@@ -255,10 +255,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 623
+    x: 616
     y: 0
-    width: 231
-    height: 237
+    width: 228
+    height: 228
   m_MinSize: {x: 204, y: 224}
   m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 22}
@@ -284,13 +284,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 237
-    width: 854
+    y: 228
+    width: 844
     height: 398
   m_MinSize: {x: 436, y: 398}
   m_MaxSize: {x: 14006, y: 14048}
   vertical: 0
-  controlID: 149
+  controlID: 15
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -308,7 +308,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 299
+    width: 296
     height: 398
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -334,14 +334,14 @@ MonoBehaviour:
   - {fileID: 16}
   m_Position:
     serializedVersion: 2
-    x: 299
+    x: 296
     y: 0
-    width: 555
+    width: 548
     height: 398
   m_MinSize: {x: 234, y: 398}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 150
+  controlID: 16
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -359,7 +359,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 555
+    width: 548
     height: 274
   m_MinSize: {x: 234, y: 274}
   m_MaxSize: {x: 10004, y: 10024}
@@ -385,7 +385,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 274
-    width: 555
+    width: 548
     height: 124
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
@@ -409,21 +409,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 854
+    x: 844
     y: 0
-    width: 512
-    height: 635
-  m_MinSize: {x: 102, y: 124}
+    width: 506
+    height: 626
+  m_MinSize: {x: 277, y: 74}
   m_MaxSize: {x: 4002, y: 4024}
-  m_ActualView: {fileID: 29}
+  m_ActualView: {fileID: 26}
   m_Panes:
   - {fileID: 26}
   - {fileID: 27}
   - {fileID: 28}
   - {fileID: 29}
   - {fileID: 18}
-  m_Selected: 3
-  m_LastSelected: 4
+  m_Selected: 0
+  m_LastSelected: 3
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -454,11 +454,11 @@ MonoBehaviour:
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
-  currentStatusEntriesHasUpdate: 0
-  repositoryProgressHasUpdate: 0
-  appManagerProgressHasUpdate: 0
-  changeTab: 4
-  activeTab: 4
+  currentStatusEntriesHasUpdate: 1
+  repositoryProgressHasUpdate: 1
+  appManagerProgressHasUpdate: 1
+  changeTab: 3
+  activeTab: 3
   initProjectView:
     hasCompletedInitialCheck: 1
     isUserDataPresent: 1
@@ -605,10 +605,10 @@ MonoBehaviour:
     disableDelete: 1
     disableCreate: 0
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:42.535+02:00
+      updatedTimeString: 2019-04-26T21:09:33.219+02:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2019-04-26T18:35:31.782+02:00
+      updatedTimeString: 2019-04-26T21:09:24.169+02:00
       cacheType: 1
     currentBranch:
       name: master
@@ -629,24 +629,85 @@ MonoBehaviour:
       tracking: '[None]'
   changesView:
     currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 0
-    currentLocksHasUpdate: 0
+    currentStatusEntriesHasUpdate: 1
+    currentLocksHasUpdate: 1
     commitBody: 
     commitMessage: 
     currentBranch: '[master]'
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
-        keys: []
-        values: []
+        keys:
+        - 00000000000000001000000000000000
+        - 1f4e962a9311e804d80e6aa8b932fe4f
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Square.png
+          label: Square.png
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Square.png
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Square.png
+            projectPath: Assets\Square.png
+            originalPath: 
+            status: 1
+            staged: 0
       folders:
         keys:
+        - Assets
         - Library
         - Library\gfu
         - Library\gfu\cache
+        - Library\metadata
+        - Library\metadata\1f
         - Library\ScriptAssemblies
+        - Library\StateCache
+        - Library\StateCache\Hierarchy
         - Temp
         values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
         - path: Library
           label: Library
           level: 0
@@ -701,9 +762,81 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
+        - path: Library\metadata
+          label: metadata
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Library\metadata\1f
+          label: 1f
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
         - path: Library\ScriptAssemblies
           label: ScriptAssemblies
           level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Library\StateCache
+          label: StateCache
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Library\StateCache\Hierarchy
+          label: Hierarchy
+          level: 2
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -765,6 +898,60 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Square.png
+        label: Square.png
+        level: 1
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Square.png
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Square.png
+          projectPath: Assets\Square.png
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Square.png.meta
+        label: Square.png.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Square.png.meta
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Square.png.meta
+          projectPath: Assets\Square.png.meta
+          originalPath: 
+          status: 1
+          staged: 0
       - path: Library
         label: Library
         level: 0
@@ -801,8 +988,8 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
-      - path: Library\CurrentLayout.dwlt
-        label: CurrentLayout.dwlt
+      - path: Library\CrashedAssetImports.txt
+        label: CrashedAssetImports.txt
         level: 1
         isFolder: 0
         isContainer: 0
@@ -813,11 +1000,11 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\CurrentLayout.dwlt
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
-          projectPath: Library\CurrentLayout.dwlt
+          path: Library\CrashedAssetImports.txt
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CrashedAssetImports.txt
+          projectPath: Library\CrashedAssetImports.txt
           originalPath: 
-          status: 3
+          status: 1
           staged: 0
       - path: Library\EditorInstance.json
         label: EditorInstance.json
@@ -963,24 +1150,6 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
-      - path: Library\gfu\cache\gituser.yaml
-        label: gituser.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gituser.yaml
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gituser.yaml
-          projectPath: Library\gfu\cache\gituser.yaml
-          originalPath: 
-          status: 3
-          staged: 0
       - path: Library\gfu\cache\repoinfo.yaml
         label: repoinfo.yaml
         level: 3
@@ -998,6 +1167,78 @@ MonoBehaviour:
           projectPath: Library\gfu\cache\repoinfo.yaml
           originalPath: 
           status: 3
+          staged: 0
+      - path: Library\metadata
+        label: metadata
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\metadata\1f
+        label: 1f
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f
+        label: 1f4e962a9311e804d80e6aa8b932fe4f
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f
+          projectPath: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f.info
+        label: 1f4e962a9311e804d80e6aa8b932fe4f.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f.info
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f.info
+          projectPath: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f.info
+          originalPath: 
+          status: 1
           staged: 0
       - path: Library\ScriptAssemblies
         label: ScriptAssemblies
@@ -1034,24 +1275,6 @@ MonoBehaviour:
           projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
           originalPath: 
           status: 3
-          staged: 0
-      - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-        label: BuiltinAssemblies.stamp
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-          projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-          originalPath: 
-          status: 5
           staged: 0
       - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
         label: Unity.Analytics.DataPrivacy.dll
@@ -1161,6 +1384,60 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
+      - path: Library\StateCache
+        label: StateCache
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\StateCache\Hierarchy
+        label: Hierarchy
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+        label: bc2425-mainStage.json
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\Hierarchy\bc2425-mainStage.json
+          projectPath: Library\StateCache\Hierarchy\bc2425-mainStage.json
+          originalPath: 
+          status: 3
+          staged: 0
       - path: Temp
         label: Temp
         level: 0
@@ -1178,42 +1455,6 @@ MonoBehaviour:
           projectPath: 
           originalPath: 
           status: 0
-          staged: 0
-      - path: Temp\Unity.TextMeshPro.Editor.dll
-        label: Unity.TextMeshPro.Editor.dll
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\Unity.TextMeshPro.Editor.dll
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\Unity.TextMeshPro.Editor.dll
-          projectPath: Temp\Unity.TextMeshPro.Editor.dll
-          originalPath: 
-          status: 1
-          staged: 0
-      - path: Temp\Unity.TextMeshPro.Editor.pdb
-        label: Unity.TextMeshPro.Editor.pdb
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\Unity.TextMeshPro.Editor.pdb
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\Unity.TextMeshPro.Editor.pdb
-          projectPath: Temp\Unity.TextMeshPro.Editor.pdb
-          originalPath: 
-          status: 1
           staged: 0
       - path: Temp\UnityLockfile
         label: UnityLockfile
@@ -1233,8 +1474,8 @@ MonoBehaviour:
           originalPath: 
           status: 1
           staged: 0
-      - path: Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
-        label: UnityTempFile-3b95194f63dff9d468d4ca88ade82008
+      - path: Temp\UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
+        label: UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
         level: 1
         isFolder: 0
         isContainer: 0
@@ -1245,14 +1486,14 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
-          projectPath: Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
+          path: Temp\UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
+          projectPath: Temp\UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
           originalPath: 
           status: 1
           staged: 0
-      - path: Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
-        label: UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
+      - path: Temp\UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
+        label: UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
         level: 1
         isFolder: 0
         isContainer: 0
@@ -1263,14 +1504,14 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
-          projectPath: Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
+          path: Temp\UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
+          projectPath: Temp\UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
           originalPath: 
           status: 1
           staged: 0
-      - path: Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
-        label: UnityTempFile-c644911bb432cb7449cd17dce556a26e
+      - path: Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
+        label: UnityTempFile-49f67634c97b2e440a8aa8816d742129
         level: 1
         isFolder: 0
         isContainer: 0
@@ -1281,14 +1522,14 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
-          projectPath: Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
+          path: Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
+          projectPath: Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
           originalPath: 
           status: 1
           staged: 0
-      - path: Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-        label: UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
+      - path: Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
+        label: UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
         level: 1
         isFolder: 0
         isContainer: 0
@@ -1299,14 +1540,14 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-          projectPath: Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
+          path: Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
+          projectPath: Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
           originalPath: 
           status: 1
           staged: 0
-      - path: Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
-        label: UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
+      - path: Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+        label: UnityTempFile-6492c526478caf144a37c2f5aa7b3695
         level: 1
         isFolder: 0
         isContainer: 0
@@ -1317,9 +1558,27 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
-          projectPath: Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
+          path: Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+          projectPath: Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+        label: UnityTempFile-e546889f8cf570a47849f4f09a712a00
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+          projectPath: Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
           originalPath: 
           status: 1
           staged: 0
@@ -1343,17 +1602,29 @@ MonoBehaviour:
           status: 0
           staged: 0
     gitStatusEntries:
+    - path: Assets\Square.png
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Square.png
+      projectPath: Assets\Square.png
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Square.png.meta
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Square.png.meta
+      projectPath: Assets\Square.png.meta
+      originalPath: 
+      status: 1
+      staged: 0
     - path: Library\assetDatabase3
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
       projectPath: Library\assetDatabase3
       originalPath: 
       status: 3
       staged: 0
-    - path: Library\CurrentLayout.dwlt
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
-      projectPath: Library\CurrentLayout.dwlt
+    - path: Library\CrashedAssetImports.txt
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
       originalPath: 
-      status: 3
+      status: 1
       staged: 0
     - path: Library\EditorInstance.json
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\EditorInstance.json
@@ -1391,29 +1662,29 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    - path: Library\gfu\cache\gituser.yaml
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gituser.yaml
-      projectPath: Library\gfu\cache\gituser.yaml
-      originalPath: 
-      status: 3
-      staged: 0
     - path: Library\gfu\cache\repoinfo.yaml
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       status: 3
       staged: 0
+    - path: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f
+      projectPath: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f.info
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f.info
+      projectPath: Library\metadata\1f\1f4e962a9311e804d80e6aa8b932fe4f.info
+      originalPath: 
+      status: 1
+      staged: 0
     - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
       projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
       originalPath: 
       status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-      originalPath: 
-      status: 5
       staged: 0
     - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
@@ -1451,17 +1722,11 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    - path: Temp\Unity.TextMeshPro.Editor.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\Unity.TextMeshPro.Editor.dll
-      projectPath: Temp\Unity.TextMeshPro.Editor.dll
+    - path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\Hierarchy\bc2425-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\bc2425-mainStage.json
       originalPath: 
-      status: 1
-      staged: 0
-    - path: Temp\Unity.TextMeshPro.Editor.pdb
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\Unity.TextMeshPro.Editor.pdb
-      projectPath: Temp\Unity.TextMeshPro.Editor.pdb
-      originalPath: 
-      status: 1
+      status: 3
       staged: 0
     - path: Temp\UnityLockfile
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityLockfile
@@ -1469,45 +1734,51 @@ MonoBehaviour:
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
-      projectPath: Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
+    - path: Temp\UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
+      projectPath: Temp\UnityTempFile-2c1e5829f29dc7e4ba03dc4cb65c21a1
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
-      projectPath: Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
+    - path: Temp\UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
+      projectPath: Temp\UnityTempFile-457ba0aa15f8f8c40b33b7109b8686da
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
-      projectPath: Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
+    - path: Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
+      projectPath: Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-      projectPath: Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
+    - path: Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
+      projectPath: Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
-      projectPath: Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
+    - path: Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+      projectPath: Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
       originalPath: 
       status: 1
       staged: 0
-    changedFilesText: 26 changed files
+    - path: Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+      projectPath: Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+      originalPath: 
+      status: 1
+      staged: 0
+    changedFilesText: 28 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:31.782+02:00
+      updatedTimeString: 2019-04-26T21:09:24.169+02:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:32.115+02:00
+      updatedTimeString: 2019-04-27T08:16:10.288+02:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:32.415+02:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 6
   historyView:
     currentLogHasUpdate: 0
@@ -1515,6 +1786,108 @@ MonoBehaviour:
     historyControl:
       scroll: {x: 0, y: 0}
       entries:
+      - commitID: 5de0ef26d66d7743cdc408ee06721f57d258490d
+        mergeA: 
+        mergeB: 
+        authorName: Piotr
+        authorEmail: zizi5673@gmail.com
+        commitEmail: zizi5673@gmail.com
+        commitName: Piotr
+        summary: Initial commit 2
+        description: Initial commit 2
+        timeString: 2019-04-26T21:08:16.000+02:00
+        commitTimeString: 2019-04-26T21:08:16.000+02:00
+        changes:
+        - path: Library\CurrentLayout.dwlt
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
+          projectPath: Library\CurrentLayout.dwlt
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+          projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+          projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+          projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+          projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\assetDatabase3
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
+          projectPath: Library\assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\gfu\cache\branches.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
+          projectPath: Library\gfu\cache\branches.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\gfu\cache\gitlog.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlog.yaml
+          projectPath: Library\gfu\cache\gitlog.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\gfu\cache\gitstatusentries.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitstatusentries.yaml
+          projectPath: Library\gfu\cache\gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\gfu\cache\gittrackingstatus.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
+          projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\gfu\cache\gituser.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gituser.yaml
+          projectPath: Library\gfu\cache\gituser.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\gfu\cache\repoinfo.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
+          projectPath: Library\gfu\cache\repoinfo.yaml
+          originalPath: 
+          status: 3
+          staged: 0
       - commitID: 261b075beedda598cfd863157f3bb84a8f80d773
         mergeA: 
         mergeB: 
@@ -14236,6 +14609,108 @@ MonoBehaviour:
       changes: []
     detailsScroll: {x: 0, y: 0}
     logEntries:
+    - commitID: 5de0ef26d66d7743cdc408ee06721f57d258490d
+      mergeA: 
+      mergeB: 
+      authorName: Piotr
+      authorEmail: zizi5673@gmail.com
+      commitEmail: zizi5673@gmail.com
+      commitName: Piotr
+      summary: Initial commit 2
+      description: Initial commit 2
+      timeString: 2019-04-26T21:08:16.000+02:00
+      commitTimeString: 2019-04-26T21:08:16.000+02:00
+      changes:
+      - path: Library\CurrentLayout.dwlt
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
+        projectPath: Library\CurrentLayout.dwlt
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+        projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+        projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+        projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+        projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+        projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+        projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\assetDatabase3
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
+        projectPath: Library\assetDatabase3
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\gfu\cache\branches.yaml
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
+        projectPath: Library\gfu\cache\branches.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\gfu\cache\gitlocks.yaml
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+        projectPath: Library\gfu\cache\gitlocks.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\gfu\cache\gitlog.yaml
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlog.yaml
+        projectPath: Library\gfu\cache\gitlog.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\gfu\cache\gitstatusentries.yaml
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitstatusentries.yaml
+        projectPath: Library\gfu\cache\gitstatusentries.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\gfu\cache\gittrackingstatus.yaml
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
+        projectPath: Library\gfu\cache\gittrackingstatus.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\gfu\cache\gituser.yaml
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gituser.yaml
+        projectPath: Library\gfu\cache\gituser.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\gfu\cache\repoinfo.yaml
+        fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
+        projectPath: Library\gfu\cache\repoinfo.yaml
+        originalPath: 
+        status: 3
+        staged: 0
     - commitID: 261b075beedda598cfd863157f3bb84a8f80d773
       mergeA: 
       mergeB: 
@@ -26978,10 +27453,10 @@ MonoBehaviour:
           status: 0
           staged: 0
     lastLogChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:39.291+02:00
+      updatedTimeString: 2019-04-26T21:09:31.820+02:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:32.130+02:00
+      updatedTimeString: 2019-04-26T21:09:24.931+02:00
       cacheType: 4
   settingsView:
     gitPathView:
@@ -27036,13 +27511,13 @@ MonoBehaviour:
         gitFileStatus: 0
         lockedAt: 1 sty 0001, 01:00
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:31.782+02:00
+      updatedTimeString: 2019-04-26T21:09:24.169+02:00
       cacheType: 1
     lastLocksChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:32.415+02:00
+      updatedTimeString: 2019-04-26T21:09:24.958+02:00
       cacheType: 6
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2019-04-26T18:35:32.115+02:00
+      updatedTimeString: 2019-04-26T21:09:25.679+02:00
       cacheType: 5
     lockedFiles: []
     gitStatusEntries:
@@ -27052,33 +27527,15 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    - path: Library\CurrentLayout.dwlt
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
-      projectPath: Library\CurrentLayout.dwlt
-      originalPath: 
-      status: 3
-      staged: 0
     - path: Library\EditorInstance.json
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\EditorInstance.json
       projectPath: Library\EditorInstance.json
       originalPath: 
       status: 1
       staged: 0
-    - path: Library\gfu\cache\branches.yaml
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
-      projectPath: Library\gfu\cache\branches.yaml
-      originalPath: 
-      status: 3
-      staged: 0
     - path: Library\gfu\cache\gitlocks.yaml
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
       projectPath: Library\gfu\cache\gitlocks.yaml
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\gfu\cache\gitlog.yaml
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlog.yaml
-      projectPath: Library\gfu\cache\gitlog.yaml
       originalPath: 
       status: 3
       staged: 0
@@ -27094,21 +27551,9 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    - path: Library\gfu\cache\gituser.yaml
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gituser.yaml
-      projectPath: Library\gfu\cache\gituser.yaml
-      originalPath: 
-      status: 3
-      staged: 0
     - path: Library\gfu\cache\repoinfo.yaml
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
       projectPath: Library\gfu\cache\repoinfo.yaml
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
       originalPath: 
       status: 3
       staged: 0
@@ -27118,53 +27563,11 @@ MonoBehaviour:
       originalPath: 
       status: 5
       staged: 0
-    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-      originalPath: 
-      status: 3
-      staged: 0
     - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
       projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
       originalPath: 
       status: 3
-      staged: 0
-    - path: Temp\Unity.TextMeshPro.Editor.dll
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\Unity.TextMeshPro.Editor.dll
-      projectPath: Temp\Unity.TextMeshPro.Editor.dll
-      originalPath: 
-      status: 1
-      staged: 0
-    - path: Temp\Unity.TextMeshPro.Editor.pdb
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\Unity.TextMeshPro.Editor.pdb
-      projectPath: Temp\Unity.TextMeshPro.Editor.pdb
-      originalPath: 
-      status: 1
       staged: 0
     - path: Temp\UnityLockfile
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityLockfile
@@ -27172,33 +27575,27 @@ MonoBehaviour:
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
-      projectPath: Temp\UnityTempFile-3b95194f63dff9d468d4ca88ade82008
+    - path: Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
+      projectPath: Temp\UnityTempFile-49f67634c97b2e440a8aa8816d742129
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
-      projectPath: Temp\UnityTempFile-5a16f809a10b74045ae5f17a86a06ba3
+    - path: Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
+      projectPath: Temp\UnityTempFile-5ec9be7ffeb25cf4fa6779515ed08876
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
-      projectPath: Temp\UnityTempFile-c644911bb432cb7449cd17dce556a26e
+    - path: Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
+      projectPath: Temp\UnityTempFile-6492c526478caf144a37c2f5aa7b3695
       originalPath: 
       status: 1
       staged: 0
-    - path: Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-      projectPath: Temp\UnityTempFile-db9b8a6776b0ca5468797f0e54292fd5
-      originalPath: 
-      status: 1
-      staged: 0
-    - path: Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
-      projectPath: Temp\UnityTempFile-e6362a3a5df89574e97f347c85f2e9e7
+    - path: Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
+      projectPath: Temp\UnityTempFile-e546889f8cf570a47849f4f09a712a00
       originalPath: 
       status: 1
       staged: 0
@@ -27228,13 +27625,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2019-04-26T18:35:31.782+02:00
+    updatedTimeString: 2019-04-26T21:09:24.169+02:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2019-04-26T18:35:32.130+02:00
+    updatedTimeString: 2019-04-26T21:09:24.931+02:00
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2019-04-26T18:35:32.115+02:00
+    updatedTimeString: 2019-04-26T23:50:53.006+02:00
     cacheType: 5
   pullButtonContent:
     m_Text: Pull
@@ -27305,10 +27702,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
-    width: 621
-    height: 217
+    x: 8
+    y: 81
+    width: 614
+    height: 208
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 747686de9ece2ef448d9e8281a0248a7
   m_SceneLighting: 1
@@ -27316,9 +27713,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.9045012, y: -0.0342038, z: -0.019243937}
+    m_Target: {x: -12.398379, y: 1.1676263, z: -0.16796875}
     speed: 2
-    m_Value: {x: -0.9045012, y: -0.0342038, z: -0.019243937}
+    m_Value: {x: -12.398379, y: 1.1676263, z: -0.16796875}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -27350,9 +27747,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.925186
+    m_Target: 18.55991
     speed: 2
-    m_Value: 11.925186
+    m_Value: 18.55991
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -27449,31 +27846,31 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 623
-    y: 73
-    width: 227
-    height: 217
+    x: 624
+    y: 81
+    width: 224
+    height: 208
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: b2fbffff
+      m_ExpandedIDs: b6d5ffff58e8ffffb2fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: AIPlayerGoal
+        m_OriginalName: AIPlayerGoal
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -10106
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 11}
       m_SearchString: 
@@ -27504,9 +27901,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 310
-    width: 297
+    x: 8
+    y: 309
+    width: 294
     height: 378
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
@@ -27528,8 +27925,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -27540,25 +27937,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 297
+      width: 294
       height: 361
-    m_Scale: {x: 0.47194275, y: 0.47194272}
-    m_Translation: {x: 135.53769, y: 180.5}
+    m_Scale: {x: 0.28710938, y: 0.28710938}
+    m_Translation: {x: 147, y: 180.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -287.19095
-      y: -382.46167
-      width: 629.3136
-      height: 764.92334
+      x: -512
+      y: -628.6803
+      width: 1024
+      height: 1257.3606
     m_MinimalGUI: 1
-  m_defaultScale: 0.29003906
+  m_defaultScale: 0.28710938
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 297, y: 378}
+  m_LastWindowPixelSize: {x: 294, y: 378}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 0
   m_LowResolutionForAspectRatios: 01000001000100000100
@@ -27584,9 +27981,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 299
-    y: 310
-    width: 551
+    x: 304
+    y: 309
+    width: 544
     height: 254
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -27600,7 +27997,8 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/PhysicalMaterials
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -27640,7 +28038,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000602800004c290000
+    m_ExpandedIDs: ffffffff00000000602800004c290000762b0000982e0000d0330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -27716,14 +28114,14 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 299
-    y: 584
-    width: 551
+    x: 304
+    y: 583
+    width: 544
     height: 104
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 10948
+  m_LastSelectedObjectID: -9238
 --- !u!114 &26
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -27745,10 +28143,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 854
-    y: 73
-    width: 510
-    height: 615
+    x: 852
+    y: 81
+    width: 504
+    height: 606
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 

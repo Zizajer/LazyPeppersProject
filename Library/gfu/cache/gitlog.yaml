@@ -13,9 +13,111 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-26T18:35:39.291+02:00
-  initializedAtString: 2019-04-26T18:35:39.291+02:00
+  lastUpdatedAtString: 2019-04-26T21:09:31.820+02:00
+  initializedAtString: 2019-04-26T21:09:31.820+02:00
   log:
+  - commitID: 5de0ef26d66d7743cdc408ee06721f57d258490d
+    mergeA: 
+    mergeB: 
+    authorName: Piotr
+    authorEmail: zizi5673@gmail.com
+    commitEmail: zizi5673@gmail.com
+    commitName: Piotr
+    summary: Initial commit 2
+    description: Initial commit 2
+    timeString: 2019-04-26T21:08:16.000+02:00
+    commitTimeString: 2019-04-26T21:08:16.000+02:00
+    changes:
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 261b075beedda598cfd863157f3bb84a8f80d773
     mergeA: 
     mergeB: 
