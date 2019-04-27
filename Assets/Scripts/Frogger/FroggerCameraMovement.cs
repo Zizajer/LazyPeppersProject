@@ -15,9 +15,9 @@ public class FroggerCameraMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Player.position.y > 0)
+        if(Player.position.y > 0 && transform.position.y<28)
         {
-            
+            transform.position = new Vector3(transform.position.x,Player.position.y+2,transform.position.z);
         }
     }
 }
