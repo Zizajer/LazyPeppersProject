@@ -10,6 +10,7 @@ TagManager:
   - AIPlayerGoal
   - AIPongPlayer
   - Wall
+  - Obstacle
   layers:
   - Default
   - TransparentFX

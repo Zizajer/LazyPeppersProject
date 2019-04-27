@@ -60,6 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CircusCharlie\CircusCharlieCameraMovement.cs" />
+    <Compile Include="Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs" />
+    <Compile Include="Assets\Scripts\CircusCharlie\CircusCharliePlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Frogger\FroggerPlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Frogger\ObstacleCreator.cs" />
+    <Compile Include="Assets\Scripts\Frogger\ObstacleMovement.cs" />
     <Compile Include="Assets\Scripts\Pacman\ChangePoint.cs" />
     <Compile Include="Assets\Scripts\Pacman\PacmanMovement.cs" />
     <Compile Include="Assets\Scripts\Pong\AIPongPlayerMovement.cs" />
