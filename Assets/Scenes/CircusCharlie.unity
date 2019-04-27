@@ -147,7 +147,7 @@ Rigidbody2D:
   m_Mass: 2
   m_LinearDrag: 2
   m_AngularDrag: 4
-  m_GravityScale: 1.2
+  m_GravityScale: 1.4
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cfb421119bca77469dc1a9d9ceff679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  JumpForce: 1750
+  JumpForce: 1400
   MoveForce: 75
 --- !u!1001 &1720754369
 PrefabInstance:

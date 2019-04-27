@@ -35,7 +35,7 @@ public class Ball : MonoBehaviour
                             collision.bounds.size.y);
 
             // Calculate direction, make length=1 via .normalized
-            Vector2 dir = new Vector2(-1, y).normalized;
+            Vector2 dir = new Vector2(1, y).normalized;
 
             GetComponent<Rigidbody2D>().velocity = dir * BallSpeed;
         }
@@ -46,9 +46,13 @@ public class Ball : MonoBehaviour
                             collision.bounds.size.y);
 
             // Calculate direction, make length=1 via .normalized
-            Vector2 dir = new Vector2(1, y).normalized;
+            Vector2 dir = new Vector2(-1, y).normalized;
             
             GetComponent<Rigidbody2D>().velocity = dir * BallSpeed;
+        }
+        if(collision.tag == "PlayerGoal")
+        {
+            
         }
     }
 
