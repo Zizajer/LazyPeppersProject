@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 622}
   m_MaxSize: {x: 18008, y: 18072}
   vertical: 1
-  controlID: 10357
+  controlID: 18305
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -128,7 +128,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 622}
   m_MaxSize: {x: 18008, y: 18072}
   vertical: 0
-  controlID: 10358
+  controlID: 18306
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,7 +153,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 622}
   m_MaxSize: {x: 14006, y: 18072}
   vertical: 1
-  controlID: 10359
+  controlID: 18287
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -178,7 +178,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 10360
+  controlID: 18288
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -239,9 +239,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 12.700001, y: 0.5, z: -0.110868454}
+    m_Target: {x: -7.5171914, y: -0.0022799075, z: -0.08203125}
     speed: 2
-    m_Value: {x: 12.700001, y: 0.5, z: -0.110868454}
+    m_Value: {x: -7.5171914, y: -0.0022799075, z: -0.08203125}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -273,9 +273,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 22
+    m_Target: 29.867819
     speed: 2
-    m_Value: 22
+    m_Value: 29.867819
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -434,7 +434,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: b2edffffccedffffe6edffff98fbffffea4e0000
+      m_ExpandedIDs: 668dffff12bdffffccedffffe6edffff98fbffff245d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -482,7 +482,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 398}
   m_MaxSize: {x: 14006, y: 14048}
   vertical: 0
-  controlID: 10337
+  controlID: 18265
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -533,7 +533,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 398}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 10303
+  controlID: 18237
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -598,7 +598,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/CircleCharlie
+    - Assets/Scenes
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -610,7 +610,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6280000
     m_LastClickedID: 10422
-    m_ExpandedIDs: ffffffff00000000c0280000fe28000022290000622a00008a2a00002a2b0000564f0000644f0000
+    m_ExpandedIDs: ffffffff00000000c0280000fe28000022290000422a0000622a00002a2b0000862b0000ba5d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -635,24 +635,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: acedffff
+    scrollPos: {x: 0, y: 73}
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000c028000022290000622a00008a2a00002a2b0000
+    m_ExpandedIDs: ffffffff00000000c0280000fe28000022290000422a0000622a00002a2b0000862b0000ba5d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: PsychoDymki
-      m_OriginalName: PsychoDymki
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10850
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 15}
     m_SearchString: 
@@ -663,8 +663,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: acedffff
-    m_LastClickedInstanceID: -4692
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
@@ -747,7 +747,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -4692
+  m_LastSelectedObjectID: -29394
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -916,9 +916,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 844
+    x: 856
     y: 81
-    width: 502
+    width: 490
     height: 599
   m_PersistentViewDataDictionary: {fileID: 0}
   progressMessageClearTime: -1
@@ -1109,195 +1109,23 @@ MonoBehaviour:
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
-        keys:
-        - 00000000000000001000000000000000
-        - f7244012324496b42b685f95938ba599
-        - 28ee4518a6ed5fa4188f45155666779a
-        - fb6a8aa4ba4da714a9aea269047cdb32
-        - c14c5e1162e011b40ab74ff8f661099f
-        - b7d602b743975a6468b2f390ea19dbb7
-        - f08beac061a124446bb60ff9a0728571
-        - 55fb4a42bacb3e94598e6bb2c63adee8
-        - ff3c9a3fb52aeac47a2f71ce04cf995d
-        values:
-        - path: Assets
-          label: Assets
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            status: 0
-            staged: 0
-        - path: Assets\Audio
-          label: Audio
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            status: 0
-            staged: 0
-        - path: Assets\Audio\CircusCharlie
-          label: CircusCharlie
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            status: 0
-            staged: 0
-        - path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-          label: Charlie_Mendelson-TLO MUZYCZNE.wav
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO
-              MUZYCZNE.wav
-            projectPath: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-            originalPath: 
-            status: 1
-            staged: 0
-        - path: Assets\Audio\CircusCharlie\o_slubie01.wav
-          label: o_slubie01.wav
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Audio\CircusCharlie\o_slubie01.wav
-            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie01.wav
-            projectPath: Assets\Audio\CircusCharlie\o_slubie01.wav
-            originalPath: 
-            status: 1
-            staged: 0
-        - path: Assets\Audio\CircusCharlie\o_slubie02.wav
-          label: o_slubie02.wav
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Audio\CircusCharlie\o_slubie02.wav
-            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie02.wav
-            projectPath: Assets\Audio\CircusCharlie\o_slubie02.wav
-            originalPath: 
-            status: 1
-            staged: 0
-        - path: Assets\Audio\CircusCharlie\o_slubie03.wav
-          label: o_slubie03.wav
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Audio\CircusCharlie\o_slubie03.wav
-            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie03.wav
-            projectPath: Assets\Audio\CircusCharlie\o_slubie03.wav
-            originalPath: 
-            status: 1
-            staged: 0
-        - path: Assets\Audio\CircusCharlie\o_slubie04.wav
-          label: o_slubie04.wav
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Audio\CircusCharlie\o_slubie04.wav
-            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie04.wav
-            projectPath: Assets\Audio\CircusCharlie\o_slubie04.wav
-            originalPath: 
-            status: 1
-            staged: 0
-        - path: Assets\Audio\CircusCharlie\o_slubie05.wav
-          label: o_slubie05.wav
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Audio\CircusCharlie\o_slubie05.wav
-            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie05.wav
-            projectPath: Assets\Audio\CircusCharlie\o_slubie05.wav
-            originalPath: 
-            status: 1
-            staged: 0
+        keys: []
+        values: []
       folders:
         keys:
-        - Assets
-        - Assets\Audio
-        - Assets\Audio\CircusCharlie
+        - .vs
+        - .vs\LazyPeppersProject
+        - .vs\LazyPeppersProject\v15
         - Library
         - Library\gfu
         - Library\gfu\cache
         values:
-        - path: Assets
-          label: Assets
+        - path: .vs
+          label: .vs
           level: 0
           isFolder: 1
           isContainer: 0
-          isCollapsed: 0
+          isCollapsed: 1
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
@@ -1310,13 +1138,13 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: Assets\Audio
-          label: Audio
+        - path: .vs\LazyPeppersProject
+          label: LazyPeppersProject
           level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1328,13 +1156,13 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: Assets\Audio\CircusCharlie
-          label: CircusCharlie
+        - path: .vs\LazyPeppersProject\v15
+          label: v15
           level: 2
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1428,12 +1256,12 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: Assets
-        label: Assets
+      - path: .vs
+        label: .vs
         level: 0
         isFolder: 1
         isContainer: 0
-        isCollapsed: 0
+        isCollapsed: 1
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
@@ -1446,13 +1274,13 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: Assets\Audio
-        label: Audio
+      - path: .vs\LazyPeppersProject
+        label: LazyPeppersProject
         level: 1
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1464,13 +1292,13 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: Assets\Audio\CircusCharlie
-        label: CircusCharlie
+      - path: .vs\LazyPeppersProject\v15
+        label: v15
         level: 2
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1482,114 +1310,23 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-        label: Charlie_Mendelson-TLO MUZYCZNE.wav
+      - path: .vs\LazyPeppersProject\v15\.suo
+        label: .suo
         level: 3
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO
-            MUZYCZNE.wav
-          projectPath: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
+          path: .vs\LazyPeppersProject\v15\.suo
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
+          projectPath: .vs\LazyPeppersProject\v15\.suo
           originalPath: 
-          status: 1
-          staged: 0
-      - path: Assets\Audio\CircusCharlie\o_slubie01.wav
-        label: o_slubie01.wav
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Audio\CircusCharlie\o_slubie01.wav
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie01.wav
-          projectPath: Assets\Audio\CircusCharlie\o_slubie01.wav
-          originalPath: 
-          status: 1
-          staged: 0
-      - path: Assets\Audio\CircusCharlie\o_slubie02.wav
-        label: o_slubie02.wav
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Audio\CircusCharlie\o_slubie02.wav
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie02.wav
-          projectPath: Assets\Audio\CircusCharlie\o_slubie02.wav
-          originalPath: 
-          status: 1
-          staged: 0
-      - path: Assets\Audio\CircusCharlie\o_slubie03.wav
-        label: o_slubie03.wav
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Audio\CircusCharlie\o_slubie03.wav
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie03.wav
-          projectPath: Assets\Audio\CircusCharlie\o_slubie03.wav
-          originalPath: 
-          status: 1
-          staged: 0
-      - path: Assets\Audio\CircusCharlie\o_slubie04.wav
-        label: o_slubie04.wav
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Audio\CircusCharlie\o_slubie04.wav
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie04.wav
-          projectPath: Assets\Audio\CircusCharlie\o_slubie04.wav
-          originalPath: 
-          status: 1
-          staged: 0
-      - path: Assets\Audio\CircusCharlie\o_slubie05.wav
-        label: o_slubie05.wav
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Audio\CircusCharlie\o_slubie05.wav
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie05.wav
-          projectPath: Assets\Audio\CircusCharlie\o_slubie05.wav
-          originalPath: 
-          status: 1
+          status: 3
           staged: 0
       - path: Library
         label: Library
@@ -1681,24 +1418,6 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
-      - path: Library\gfu\cache\gitlocks.yaml
-        label: gitlocks.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 1
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gitlocks.yaml
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
-          projectPath: Library\gfu\cache\gitlocks.yaml
-          originalPath: 
-          status: 3
-          staged: 0
       - path: Library\gfu\cache\gitlog.yaml
         label: gitlog.yaml
         level: 3
@@ -1753,99 +1472,31 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
-      - path: Library\gfu\cache\repoinfo.yaml
-        label: repoinfo.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 1
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\repoinfo.yaml
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
-          projectPath: Library\gfu\cache\repoinfo.yaml
-          originalPath: 
-          status: 3
-          staged: 0
-      - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-        label: shadercompiler-UnityShaderCompiler.exe0.log
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 1
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
-          projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-          originalPath: 
-          status: 3
-          staged: 0
       selectedNode:
-        path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-        label: Charlie_Mendelson-TLO MUZYCZNE.wav
-        level: 3
+        path: 
+        label: 
+        level: 0
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
-        treeIsCheckable: 1
+        treeIsCheckable: 0
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO
-            MUZYCZNE.wav
-          projectPath: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
+          path: 
+          fullPath: 
+          projectPath: 
           originalPath: 
-          status: 1
+          status: 0
           staged: 0
     gitStatusEntries:
-    - path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO
-        MUZYCZNE.wav
-      projectPath: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
+    - path: .vs\LazyPeppersProject\v15\.suo
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
+      projectPath: .vs\LazyPeppersProject\v15\.suo
       originalPath: 
-      status: 1
-      staged: 0
-    - path: Assets\Audio\CircusCharlie\o_slubie01.wav
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie01.wav
-      projectPath: Assets\Audio\CircusCharlie\o_slubie01.wav
-      originalPath: 
-      status: 1
-      staged: 0
-    - path: Assets\Audio\CircusCharlie\o_slubie02.wav
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie02.wav
-      projectPath: Assets\Audio\CircusCharlie\o_slubie02.wav
-      originalPath: 
-      status: 1
-      staged: 0
-    - path: Assets\Audio\CircusCharlie\o_slubie03.wav
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie03.wav
-      projectPath: Assets\Audio\CircusCharlie\o_slubie03.wav
-      originalPath: 
-      status: 1
-      staged: 0
-    - path: Assets\Audio\CircusCharlie\o_slubie04.wav
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie04.wav
-      projectPath: Assets\Audio\CircusCharlie\o_slubie04.wav
-      originalPath: 
-      status: 1
-      staged: 0
-    - path: Assets\Audio\CircusCharlie\o_slubie05.wav
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\o_slubie05.wav
-      projectPath: Assets\Audio\CircusCharlie\o_slubie05.wav
-      originalPath: 
-      status: 1
+      status: 3
       staged: 0
     - path: Library\assetDatabase3
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
@@ -1856,12 +1507,6 @@ MonoBehaviour:
     - path: Library\gfu\cache\branches.yaml
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
       projectPath: Library\gfu\cache\branches.yaml
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\gfu\cache\gitlocks.yaml
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
-      projectPath: Library\gfu\cache\gitlocks.yaml
       originalPath: 
       status: 3
       staged: 0
@@ -1883,27 +1528,15 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    - path: Library\gfu\cache\repoinfo.yaml
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
-      projectPath: Library\gfu\cache\repoinfo.yaml
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
-      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-      originalPath: 
-      status: 3
-      staged: 0
-    changedFilesText: 14 changed files
+    changedFilesText: 6 changed files
     lastCurrentBranchChangedEvent:
       updatedTimeString: 2019-04-28T03:16:58.639+02:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2019-04-28T03:49:12.150+02:00
+      updatedTimeString: 2019-04-28T04:15:22.526+02:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2019-04-28T03:48:33.385+02:00
+      updatedTimeString: 2019-04-28T04:15:04.194+02:00
       cacheType: 6
   historyView:
     currentLogHasUpdate: 0
@@ -32879,7 +32512,7 @@ MonoBehaviour:
   currentRemoteName: origin
   currentBranch: master
   currentRemoteUrl: https://github.com/Zizajer/LazyPeppersProject.git
-  statusAhead: 0
+  statusAhead: 1
   statusBehind: 0
   hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
@@ -32895,10 +32528,10 @@ MonoBehaviour:
     updatedTimeString: 2019-04-28T03:16:58.639+02:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2019-04-28T03:35:31.855+02:00
+    updatedTimeString: 2019-04-28T04:00:05.542+02:00
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2019-04-28T03:35:31.806+02:00
+    updatedTimeString: 2019-04-28T04:00:05.402+02:00
     cacheType: 5
   pullButtonContent:
     m_Text: Pull
@@ -32916,8 +32549,8 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 0
-  repositoryProgressMessage: 
+  repositoryProgressValue: 1
+  repositoryProgressMessage: Reading locks...
   appManagerProgressValue: 0
   appManagerProgressMessage: 
   connections: []

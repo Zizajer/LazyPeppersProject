@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-28T03:49:25.286+02:00
+  lastUpdatedAtString: 2019-04-28T04:15:27.815+02:00
   initializedAtString: 2019-04-28T03:05:17.057+02:00
   entries:
   - path: .vs\LazyPeppersProject\v15\.suo
@@ -22,94 +22,81 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO
-      MUZYCZNE.wav
-    projectPath: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
+  - path: Assets\Audio\Frogger\deszcz_monet.wav
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Frogger\deszcz_monet.wav
+    projectPath: Assets\Audio\Frogger\deszcz_monet.wav
     originalPath: 
     status: 1
     staged: 0
-  - path: "Assets\\Audio\\CircusCharlie\\Ju\u017CCzas.wav"
-    fullPath: "C:\\Users\\zizi5\\Documents\\Projekty Unity\\LazyPeppersProject\\Assets\\Audio\\CircusCharlie\\Ju\u017CCzas.wav"
-    projectPath: "Assets\\Audio\\CircusCharlie\\Ju\u017CCzas.wav"
+  - path: Assets\Audio\Frogger\TLO_PRACA.wav
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Frogger\TLO_PRACA.wav
+    projectPath: Assets\Audio\Frogger\TLO_PRACA.wav
     originalPath: 
     status: 1
     staged: 0
-  - path: "Assets\\Audio\\CircusCharlie\\Kole\u017Canki.wav"
-    fullPath: "C:\\Users\\zizi5\\Documents\\Projekty Unity\\LazyPeppersProject\\Assets\\Audio\\CircusCharlie\\Kole\u017Canki.wav"
-    projectPath: "Assets\\Audio\\CircusCharlie\\Kole\u017Canki.wav"
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: "Assets\\Audio\\CircusCharlie\\NieBedziemyJuzM\u0142odsi.wav"
-    fullPath: "C:\\Users\\zizi5\\Documents\\Projekty Unity\\LazyPeppersProject\\Assets\\Audio\\CircusCharlie\\NieBedziemyJuzM\u0142odsi.wav"
-    projectPath: "Assets\\Audio\\CircusCharlie\\NieBedziemyJuzM\u0142odsi.wav"
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Audio\CircusCharlie\SpotkacNaSlubnymKobiercu.wav
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\SpotkacNaSlubnymKobiercu.wav
-    projectPath: Assets\Audio\CircusCharlie\SpotkacNaSlubnymKobiercu.wav
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Audio\CircusCharlie\ZyliDlugoISzczesliwie.wav
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\ZyliDlugoISzczesliwie.wav
-    projectPath: Assets\Audio\CircusCharlie\ZyliDlugoISzczesliwie.wav
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
+  - path: Assets\Prefabs\Frogger\Bricks\faktura.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\faktura.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\faktura.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
+  - path: Assets\Prefabs\Frogger\Bricks\frogger-asap.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\frogger-asap.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\frogger-asap.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
+  - path: Assets\Prefabs\Frogger\Bricks\frogger-deadline.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\frogger-deadline.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\frogger-deadline.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+  - path: Assets\Prefabs\Frogger\Bricks\klient.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\klient.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\klient.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
+  - path: Assets\Prefabs\Frogger\Bricks\kosztorys.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\kosztorys.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\kosztorys.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Prefabs\CircleCharlie\Ring.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\Ring.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\Ring.prefab
+  - path: Assets\Prefabs\Frogger\Bricks\kpi.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\kpi.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\kpi.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scenes\CircusCharlie.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\CircusCharlie.unity
-    projectPath: Assets\Scenes\CircusCharlie.unity
+  - path: Assets\Prefabs\Frogger\Bricks\raport.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\raport.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\raport.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
-    projectPath: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
+  - path: Assets\Prefabs\Frogger\Bricks\spotkanie.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\spotkanie.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\spotkanie.prefab
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scripts\Frogger\ObstacleMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\ObstacleMovement.cs
-    projectPath: Assets\Scripts\Frogger\ObstacleMovement.cs
+  - path: Assets\Prefabs\Frogger\Bricks\szkolenie.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Frogger\Bricks\szkolenie.prefab
+    projectPath: Assets\Prefabs\Frogger\Bricks\szkolenie.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\Frogger.unity
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Frogger.unity
+    projectPath: Assets\Scenes\Frogger.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\FroggerPlayerMovement.cs
+    projectPath: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
     originalPath: 
     status: 3
     staged: 0
@@ -152,12 +139,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0

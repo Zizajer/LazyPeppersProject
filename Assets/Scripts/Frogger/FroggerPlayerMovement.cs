@@ -5,10 +5,12 @@ using UnityEngine;
 public class FroggerPlayerMovement : MonoBehaviour
 {
     public float MovementSpeed;
+    private AudioSource audioSource;
 
     // Start is called before the first frame update
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         
     }
 
@@ -26,6 +28,19 @@ public class FroggerPlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             transform.position = new Vector2(transform.position.x + MovementSpeed, transform.position.y);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "EndLine")
+        {
+            if (audioSource != null)
+                audioSource.Play();
+        }
+        if (collision.tag == "Obstacle")
+        {
+            Debug.Log("YOU LOST ");
         }
     }
 }

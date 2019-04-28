@@ -13,9 +13,208 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-28T03:16:59.334+02:00
+  lastUpdatedAtString: 2019-04-28T03:50:13.724+02:00
   initializedAtString: 2019-04-28T03:05:16.450+02:00
   log:
+  - commitID: 045af033db2ce94e21b6b893d474673769de1283
+    mergeA: 
+    mergeB: 
+    authorName: Piotr
+    authorEmail: zizi5673@gmail.com
+    commitEmail: zizi5673@gmail.com
+    commitName: Piotr
+    summary: Added sounds and other functionality for CircusCharlie.
+    description: Added sounds and other functionality for CircusCharlie.
+    timeString: 2019-04-28T03:50:10.000+02:00
+    commitTimeString: 2019-04-28T03:50:10.000+02:00
+    changes:
+    - path: .vs\LazyPeppersProject\v15\.suo
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
+      projectPath: .vs\LazyPeppersProject\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO
+        MUZYCZNE.wav
+      projectPath: Assets\Audio\CircusCharlie\Charlie_Mendelson-TLO MUZYCZNE.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: "Assets\\Audio\\CircusCharlie\\Ju\u017CCzas.wav"
+      fullPath: "C:\\Users\\zizi5\\Documents\\Projekty Unity\\LazyPeppersProject\\Assets\\Audio\\CircusCharlie\\Ju\u017CCzas.wav"
+      projectPath: "Assets\\Audio\\CircusCharlie\\Ju\u017CCzas.wav"
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: "Assets\\Audio\\CircusCharlie\\Kole\u017Canki.wav"
+      fullPath: "C:\\Users\\zizi5\\Documents\\Projekty Unity\\LazyPeppersProject\\Assets\\Audio\\CircusCharlie\\Kole\u017Canki.wav"
+      projectPath: "Assets\\Audio\\CircusCharlie\\Kole\u017Canki.wav"
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: "Assets\\Audio\\CircusCharlie\\NieBedziemyJuzM\u0142odsi.wav"
+      fullPath: "C:\\Users\\zizi5\\Documents\\Projekty Unity\\LazyPeppersProject\\Assets\\Audio\\CircusCharlie\\NieBedziemyJuzM\u0142odsi.wav"
+      projectPath: "Assets\\Audio\\CircusCharlie\\NieBedziemyJuzM\u0142odsi.wav"
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Audio\CircusCharlie\SpotkacNaSlubnymKobiercu.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\SpotkacNaSlubnymKobiercu.wav
+      projectPath: Assets\Audio\CircusCharlie\SpotkacNaSlubnymKobiercu.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Audio\CircusCharlie\ZyliDlugoISzczesliwie.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\ZyliDlugoISzczesliwie.wav
+      projectPath: Assets\Audio\CircusCharlie\ZyliDlugoISzczesliwie.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
+      projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\chcialabym1.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
+      projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
+      projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\juz_czas.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+      projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
+      projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\kolezanki.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\CircleCharlie\Ring.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\Ring.prefab
+      projectPath: Assets\Prefabs\CircleCharlie\Ring.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\CircusCharlie.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\CircusCharlie.unity
+      projectPath: Assets\Scenes\CircusCharlie.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
+      projectPath: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\Frogger\ObstacleMovement.cs
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\ObstacleMovement.cs
+      projectPath: Assets\Scripts\Frogger\ObstacleMovement.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\Hierarchy\bc2425-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\SceneView\747686-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\SceneView\747686-mainStage.json
+      projectPath: Library\StateCache\SceneView\747686-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 7d6e1b39b4cea8c255718a93b803926783fc0be7
     mergeA: 
     mergeB: 
