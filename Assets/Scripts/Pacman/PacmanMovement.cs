@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PacmanMovement : MonoBehaviour
 {
@@ -110,6 +111,18 @@ public class PacmanMovement : MonoBehaviour
             lastKnownDirection = direction;
             Debug.Log(lastKnownDirection);
             rigidbody2D.velocity = new Vector2(0,0);
+        }
+        if(collision.tag == "EndLine")
+        {
+            SceneManager.LoadScene("VideoScene5");
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.collider.tag == "Coronner")
+        {
+            SceneManager.LoadScene("GameOverScene4");
         }
     }
 }

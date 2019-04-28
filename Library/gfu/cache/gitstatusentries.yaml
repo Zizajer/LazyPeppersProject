@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-28T06:37:28.176+02:00
+  lastUpdatedAtString: 2019-04-28T08:12:29.038+02:00
   initializedAtString: 2019-04-28T04:36:44.449+02:00
   entries:
   - path: .vs\LazyPeppersProject\v15\.suo
@@ -22,27 +22,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scenes\GameOverScene1.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\GameOverScene1.unity
-    projectPath: Assets\Scenes\GameOverScene1.unity
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\GameOverScene2.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\GameOverScene2.unity
-    projectPath: Assets\Scenes\GameOverScene2.unity
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\GameOverScene3.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\GameOverScene3.unity
-    projectPath: Assets\Scenes\GameOverScene3.unity
+  - path: Assets\Prefabs\Pacman\Box.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Pacman\Box.prefab
+    projectPath: Assets\Prefabs\Pacman\Box.prefab
     originalPath: 
     status: 1
     staged: 0
@@ -50,113 +32,29 @@ MonoBehaviour:
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\GameOverScene4.unity
     projectPath: Assets\Scenes\GameOverScene4.unity
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Assets\Scenes\VideoScene1.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene1.unity
-    projectPath: Assets\Scenes\VideoScene1.unity
+  - path: Assets\Scenes\Pacman.unity
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Pacman.unity
+    projectPath: Assets\Scenes\Pacman.unity
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\VideoScene2.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene2.unity
-    projectPath: Assets\Scenes\VideoScene2.unity
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\VideoScene3.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene3.unity
-    projectPath: Assets\Scenes\VideoScene3.unity
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\VideoScene4.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene4.unity
-    projectPath: Assets\Scenes\VideoScene4.unity
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\Scenes\VideoScene5.unity
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene5.unity
     projectPath: Assets\Scenes\VideoScene5.unity
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
-    projectPath: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
+  - path: Assets\Scripts\Pacman\PacmanMovement.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pacman\PacmanMovement.cs
+    projectPath: Assets\Scripts\Pacman\PacmanMovement.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\FroggerPlayerMovement.cs
-    projectPath: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scripts\Pong\Ball.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pong\Ball.cs
-    projectPath: Assets\Scripts\Pong\Ball.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scripts\Video\VideoEnding.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Video\VideoEnding.cs
-    projectPath: Assets\Scripts\Video\VideoEnding.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\game_over_ostatnie.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game_over_ostatnie.mp4
-    projectPath: Assets\Videos\game_over_ostatnie.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\game_over01.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game_over01.mp4
-    projectPath: Assets\Videos\game_over01.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\game_over02.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game_over02.mp4
-    projectPath: Assets\Videos\game_over02.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\game_over03.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game_over03.mp4
-    projectPath: Assets\Videos\game_over03.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka_koncowa.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka_koncowa.mp4
-    projectPath: Assets\Videos\scenka_koncowa.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka01.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka01.mp4
-    projectPath: Assets\Videos\scenka01.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka02.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka02.mp4
-    projectPath: Assets\Videos\scenka02.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka03.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka03.mp4
-    projectPath: Assets\Videos\scenka03.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka04.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka04.mp4
-    projectPath: Assets\Videos\scenka04.mp4
+  - path: Assets\Sprites\BackGrounds\pacman_bg_2.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\BackGrounds\pacman_bg_2.png
+    projectPath: Assets\Sprites\BackGrounds\pacman_bg_2.png
     originalPath: 
     status: 1
     staged: 0
@@ -202,9 +100,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\46\467448a130f3dff4d9d3370ffc6ef790
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\46\467448a130f3dff4d9d3370ffc6ef790
-    projectPath: Library\metadata\46\467448a130f3dff4d9d3370ffc6ef790
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+    projectPath: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
     originalPath: 
     status: 3
     staged: 0
@@ -217,6 +121,42 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     status: 3
     staged: 0
@@ -238,21 +178,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
   - path: ProjectSettings\EditorBuildSettings.asset
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\ProjectSettings\EditorBuildSettings.asset
     projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
     originalPath: 
     status: 3
     staged: 0
