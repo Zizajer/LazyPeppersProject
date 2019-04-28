@@ -13,9 +13,195 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-28T06:38:44.683+02:00
+  lastUpdatedAtString: 2019-04-28T08:13:36.076+02:00
   initializedAtString: 2019-04-28T04:36:44.182+02:00
   log:
+  - commitID: ba2f6f1fe825ea61a0fffe7df83132ffd3731a50
+    mergeA: 
+    mergeB: 
+    authorName: Piotr
+    authorEmail: zizi5673@gmail.com
+    commitEmail: zizi5673@gmail.com
+    commitName: Piotr
+    summary: Added new videos and functionality.
+    description: Added new videos and functionality.
+    timeString: 2019-04-28T08:13:32.000+02:00
+    commitTimeString: 2019-04-28T08:13:32.000+02:00
+    changes:
+    - path: .vs\LazyPeppersProject\v15\.suo
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
+      projectPath: .vs\LazyPeppersProject\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\Pacman\Box.prefab
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\Pacman\Box.prefab
+      projectPath: Assets\Prefabs\Pacman\Box.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\GameOverScene4.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\GameOverScene4.unity
+      projectPath: Assets\Scenes\GameOverScene4.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Pacman.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\Pacman.unity
+      projectPath: Assets\Scenes\Pacman.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\VideoScene5.unity
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene5.unity
+      projectPath: Assets\Scenes\VideoScene5.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\Pacman\PacmanMovement.cs
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pacman\PacmanMovement.cs
+      projectPath: Assets\Scripts\Pacman\PacmanMovement.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\pacman_bg_2.png
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\BackGrounds\pacman_bg_2.png
+      projectPath: Assets\Sprites\BackGrounds\pacman_bg_2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\Hierarchy\bc2425-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\SceneView\747686-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\SceneView\747686-mainStage.json
+      projectPath: Library\StateCache\SceneView\747686-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+      projectPath: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 0f1e71a95d2ce92f3a8f8ee5aa24074d0fd56426
     mergeA: 
     mergeB: 

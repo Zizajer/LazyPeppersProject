@@ -9,6 +9,8 @@ public class AIPongPlayerMovement : MonoBehaviour
     public float Skill;
     public float TimeToLost;
     public float timeChecked;
+    public float MaxPoint;
+    public float MinPoint;
 
     // Start is called before the first frame update
     void Start()
@@ -24,7 +26,8 @@ public class AIPongPlayerMovement : MonoBehaviour
         {
             Vector2 newPosition = transform.position;
             newPosition.y = Mathf.Lerp(transform.position.y, Ball.transform.position.y, Skill);
-            transform.position = newPosition;
+            if (newPosition.y > MinPoint || newPosition.y < MaxPoint)
+                transform.position = newPosition;
         }
     }
     

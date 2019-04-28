@@ -6,6 +6,8 @@ public class PongPlayerMovement : MonoBehaviour
 {
     private Rigidbody2D rigidbody2D;
     public float MovementSpeed;
+    public float MaxPoint;
+    public float MinPoint;
 
     // Start is called before the first frame update
     void Start()
@@ -16,11 +18,11 @@ public class PongPlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.UpArrow) && rigidbody2D.position.y< MaxPoint)
         {
             rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(0, MovementSpeed * Time.deltaTime));
         }
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.DownArrow) && rigidbody2D.position.y > MinPoint)
         {
             rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(0, -MovementSpeed * Time.deltaTime));
         }

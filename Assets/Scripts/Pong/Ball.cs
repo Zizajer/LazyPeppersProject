@@ -10,10 +10,12 @@ public class Ball : MonoBehaviour
     public AudioClip dada;
     public AudioClip mama;
     private AudioSource audio;
+    private float speedAddition;
 
     // Start is called before the first frame update
     void Start()
     {
+        speedAddition = BallSpeed * 0.1f;
         rigidbody = GetComponent<Rigidbody2D>();
         audio = GetComponent<AudioSource>();
         InitOnAIPlayerSide();
@@ -44,6 +46,7 @@ public class Ball : MonoBehaviour
 
             GetComponent<Rigidbody2D>().velocity = dir * BallSpeed;
             audio.PlayOneShot(dada);
+            BallSpeed += speedAddition;
         }
         if(collision.tag == "AIPongPlayer")
         {
@@ -56,6 +59,7 @@ public class Ball : MonoBehaviour
             
             GetComponent<Rigidbody2D>().velocity = dir * BallSpeed;
             audio.PlayOneShot(mama);
+            BallSpeed += speedAddition;
         }
         if(collision.tag == "PlayerGoal")
         {

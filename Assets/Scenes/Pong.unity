@@ -294,7 +294,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 508917510}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.8, y: -0.4, z: 0}
+  m_LocalPosition: {x: 6.8, y: -0.39, z: 0}
   m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -314,8 +314,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Ball: {fileID: 2125406243}
   Skill: 0.1
-  TimeToLost: 20
+  TimeToLost: 15
   timeChecked: 0
+  MaxPoint: 2.5
+  MinPoint: -3.2
 --- !u!50 &508917514
 Rigidbody2D:
   serializedVersion: 4
@@ -764,7 +766,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1104170050}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.6, y: -0.11, z: 0}
+  m_LocalPosition: {x: -6.6, y: 0.74, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -830,6 +832,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MovementSpeed: 5
+  MaxPoint: 2.95
+  MinPoint: -3
 --- !u!1 &1371113314
 GameObject:
   m_ObjectHideFlags: 0
@@ -925,7 +929,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 1b03a727cf99a08409656fc7f57a640c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.2
+  m_Volume: 1
   m_Pitch: 1
   Loop: 1
   Mute: 0
