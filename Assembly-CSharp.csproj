@@ -70,6 +70,8 @@
     <Compile Include="Assets\Scripts\Frogger\ObstacleCreator.cs" />
     <Compile Include="Assets\Scripts\Frogger\ObstacleMovement.cs" />
     <Compile Include="Assets\Scripts\Pacman\ChangePoint.cs" />
+    <Compile Include="Assets\Scripts\Pacman\Coronner.cs" />
+    <Compile Include="Assets\Scripts\Pacman\CoronnerMovement.cs" />
     <Compile Include="Assets\Scripts\Pacman\PacmanMovement.cs" />
     <Compile Include="Assets\Scripts\Pong\AIPongPlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Pong\Ball.cs" />

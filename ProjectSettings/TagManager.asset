@@ -12,6 +12,7 @@ TagManager:
   - Wall
   - Obstacle
   - ground
+  - Coronner
   layers:
   - Default
   - TransparentFX
