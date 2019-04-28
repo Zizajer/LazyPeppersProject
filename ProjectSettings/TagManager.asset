@@ -13,6 +13,7 @@ TagManager:
   - Obstacle
   - ground
   - Coronner
+  - Ring
   layers:
   - Default
   - TransparentFX

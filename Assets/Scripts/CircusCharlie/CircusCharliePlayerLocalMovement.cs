@@ -32,5 +32,13 @@ public class CircusCharliePlayerLocalMovement : MonoBehaviour
             canJump = true;
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Ring")
+        {
+            Debug.Log("YOU LOST ");
+        }
+    }
 }
 
