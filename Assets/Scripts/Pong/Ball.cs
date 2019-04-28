@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Ball : MonoBehaviour
 {
@@ -58,11 +59,11 @@ public class Ball : MonoBehaviour
         }
         if(collision.tag == "PlayerGoal")
         {
-            Debug.Log("You lost");
+            SceneManager.LoadScene("GameOverScene2");
         }
         if (collision.tag == "AIPlayerGoal")
         {
-            Debug.Log("You win");
+            SceneManager.LoadScene("VideoScene3");
         }
     }
 

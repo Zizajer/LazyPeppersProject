@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CircusCharliePlayerLocalMovement : MonoBehaviour
 {
@@ -37,11 +38,11 @@ public class CircusCharliePlayerLocalMovement : MonoBehaviour
     {
         if (collision.tag == "Ring")
         {
-            Debug.Log("YOU LOST ");
+            SceneManager.LoadScene("GameOverScene1");
         }
         if (collision.tag == "EndLine")
         {
-            Debug.Log("YOU WIN");
+            SceneManager.LoadScene("VideoScene2");
         }
     }
 }

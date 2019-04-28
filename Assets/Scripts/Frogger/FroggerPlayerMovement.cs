@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FroggerPlayerMovement : MonoBehaviour
 {
@@ -37,10 +38,11 @@ public class FroggerPlayerMovement : MonoBehaviour
         {
             if (audioSource != null)
                 audioSource.Play();
+            SceneManager.LoadScene("VideoScene4");
         }
         if (collision.tag == "Obstacle")
         {
-            Debug.Log("YOU LOST ");
+            SceneManager.LoadScene("GameOverScene3");
         }
     }
 }

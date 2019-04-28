@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\Pong\AIPongPlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Pong\Ball.cs" />
     <Compile Include="Assets\Scripts\Pong\PongPlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Video\VideoEnding.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/zizi5/Documents/Projekty Unity/LazyPeppersProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

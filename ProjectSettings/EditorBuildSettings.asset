@@ -4,5 +4,38 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VideoScene1.unity
+    guid: 20a7e1370790db34f9a470aa0a4a4e8d
+  - enabled: 1
+    path: Assets/Scenes/CircusCharlie.unity
+    guid: 864b067cef9134a4193c42771c0173ea
+  - enabled: 1
+    path: Assets/Scenes/VideoScene2.unity
+    guid: c410f8c180f7ed94d9b4f7ea6dd9d576
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene1.unity
+    guid: b8a13d073ac40494f8f09556919e53c2
+  - enabled: 1
+    path: Assets/Scenes/Pong.unity
+    guid: 69310a008b9434d43944413ac74591d9
+  - enabled: 1
+    path: Assets/Scenes/VideoScene3.unity
+    guid: 347aae3cd63136f4395aa1f8ad57392e
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene2.unity
+    guid: 3eb1775dcbee14b40899249b36eb6b36
+  - enabled: 1
+    path: Assets/Scenes/Frogger.unity
+    guid: 4c7f347c1ffe45c40bfd78b2ff50b7ee
+  - enabled: 1
+    path: Assets/Scenes/VideoScene4.unity
+    guid: b10d50302ec7cc840919a1843f4d1c9c
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene3.unity
+    guid: 8b1abd8f341aec8499dc8e722f4c6f5a
+  - enabled: 1
+    path: Assets/Scenes/Pacman.unity
+    guid: 81487082f57a60643be1540e86e03c1d
   m_configObjects: {}
