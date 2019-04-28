@@ -6,11 +6,15 @@ public class Ball : MonoBehaviour
 {
     private Rigidbody2D rigidbody;
     public float BallSpeed;
+    public AudioClip dada;
+    public AudioClip mama;
+    private AudioSource audio;
 
     // Start is called before the first frame update
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
+        audio = GetComponent<AudioSource>();
         InitOnAIPlayerSide();
         
     }
@@ -22,7 +26,7 @@ public class Ball : MonoBehaviour
 
     void InitOnAIPlayerSide()
     {
-        rigidbody.AddForce(Vector2.right * BallSpeed);
+        rigidbody.AddForce(new Vector2(1,Random.Range(-1,1)) * 0.02f);
     }
 
 
@@ -38,6 +42,7 @@ public class Ball : MonoBehaviour
             Vector2 dir = new Vector2(1, y).normalized;
 
             GetComponent<Rigidbody2D>().velocity = dir * BallSpeed;
+            audio.PlayOneShot(dada);
         }
         if(collision.tag == "AIPongPlayer")
         {
@@ -49,10 +54,15 @@ public class Ball : MonoBehaviour
             Vector2 dir = new Vector2(-1, y).normalized;
             
             GetComponent<Rigidbody2D>().velocity = dir * BallSpeed;
+            audio.PlayOneShot(mama);
         }
         if(collision.tag == "PlayerGoal")
         {
-            
+            Debug.Log("You lost");
+        }
+        if (collision.tag == "AIPlayerGoal")
+        {
+            Debug.Log("You win");
         }
     }
 

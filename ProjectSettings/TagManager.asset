@@ -15,6 +15,7 @@ TagManager:
   - Coronner
   - Ring
   - EndLine
+  - Ball
   layers:
   - Default
   - TransparentFX

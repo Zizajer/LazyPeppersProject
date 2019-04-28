@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 622}
   m_MaxSize: {x: 18008, y: 18072}
   vertical: 1
-  controlID: 18305
+  controlID: 22170
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -128,7 +128,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 622}
   m_MaxSize: {x: 18008, y: 18072}
   vertical: 0
-  controlID: 18306
+  controlID: 22171
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,7 +153,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 622}
   m_MaxSize: {x: 14006, y: 18072}
   vertical: 1
-  controlID: 18287
+  controlID: 22172
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -178,7 +178,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 18288
+  controlID: 22173
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -239,9 +239,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -7.5171914, y: -0.0022799075, z: -0.08203125}
+    m_Target: {x: -14.849999, y: 2.77, z: -0.110868454}
     speed: 2
-    m_Value: {x: -7.5171914, y: -0.0022799075, z: -0.08203125}
+    m_Value: {x: -14.849999, y: 2.77, z: -0.110868454}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -273,9 +273,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 29.867819
+    m_Target: 22
     speed: 2
-    m_Value: 29.867819
+    m_Value: 22
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -434,7 +434,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 668dffff12bdffffccedffffe6edffff98fbffff245d0000
+      m_ExpandedIDs: dc7affffe27dffff668dffff12bdffffccedffffe6edffff98fbffff245d0000a26d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -482,7 +482,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 398}
   m_MaxSize: {x: 14006, y: 14048}
   vertical: 0
-  controlID: 18265
+  controlID: 22113
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -533,7 +533,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 398}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 18237
+  controlID: 22114
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -610,7 +610,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6280000
     m_LastClickedID: 10422
-    m_ExpandedIDs: ffffffff00000000c0280000fe28000022290000422a0000622a00002a2b0000862b0000ba5d0000
+    m_ExpandedIDs: ffffffff00000000c028000022290000422a0000622a00002a2b0000862b0000564f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -635,10 +635,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 73}
-    m_SelectedIDs: 
+    scrollPos: {x: 0, y: 25}
+    m_SelectedIDs: 866f0000
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000c0280000fe28000022290000422a0000622a00002a2b0000862b0000ba5d0000
+    m_ExpandedIDs: ffffffff00000000c028000022290000422a0000622a00002a2b0000862b0000564f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -663,8 +663,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 866f0000
+    m_LastClickedInstanceID: 28550
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
@@ -747,7 +747,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -29394
+  m_LastSelectedObjectID: 28550
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -925,7 +925,7 @@ MonoBehaviour:
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
-  currentTrackingStatusHasUpdate: 1
+  currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 1
   repositoryProgressHasUpdate: 1
   appManagerProgressHasUpdate: 1
@@ -1109,23 +1109,24 @@ MonoBehaviour:
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
-        keys: []
-        values: []
-      folders:
         keys:
-        - .vs
-        - .vs\LazyPeppersProject
-        - .vs\LazyPeppersProject\v15
-        - Library
-        - Library\gfu
-        - Library\gfu\cache
+        - 00000000000000001000000000000000
+        - f7244012324496b42b685f95938ba599
+        - 78801a73f2fda1b4a8a8d43854cbcded
+        - 1b03a727cf99a08409656fc7f57a640c
+        - b1dfacee674a8d94b9a8a8440f473b2a
+        - 1005055e4ea3d634e87f305504def4ad
+        - 9174196208212fb4199bc0641d6a4459
+        - 9982f6931db982342a274e1bb46be83e
+        - 445782106b9f011488dd44e6bcc025c2
+        - 4fdd272d1bf62ee47bfb764661900001
         values:
-        - path: .vs
-          label: .vs
+        - path: Assets
+          label: Assets
           level: 0
           isFolder: 1
           isContainer: 0
-          isCollapsed: 1
+          isCollapsed: 0
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
@@ -1138,13 +1139,13 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: .vs\LazyPeppersProject
-          label: LazyPeppersProject
+        - path: Assets\Audio
+          label: Audio
           level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 1
+          isHidden: 0
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1156,13 +1157,204 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
-        - path: .vs\LazyPeppersProject\v15
-          label: v15
+        - path: Assets\Audio\Pong
+          label: Pong
           level: 2
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 1
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Audio\Pong\creeperski_theme_background.ogg
+          label: creeperski_theme_background.ogg
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Audio\Pong\creeperski_theme_background.ogg
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\creeperski_theme_background.ogg
+            projectPath: Assets\Audio\Pong\creeperski_theme_background.ogg
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Audio\Pong\dada01.wav
+          label: dada01.wav
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Audio\Pong\dada01.wav
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada01.wav
+            projectPath: Assets\Audio\Pong\dada01.wav
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Audio\Pong\dada02.wav
+          label: dada02.wav
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Audio\Pong\dada02.wav
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada02.wav
+            projectPath: Assets\Audio\Pong\dada02.wav
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Audio\Pong\dada03.wav
+          label: dada03.wav
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Audio\Pong\dada03.wav
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada03.wav
+            projectPath: Assets\Audio\Pong\dada03.wav
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Audio\Pong\mama01.wav
+          label: mama01.wav
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Audio\Pong\mama01.wav
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama01.wav
+            projectPath: Assets\Audio\Pong\mama01.wav
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Audio\Pong\mama02.wav
+          label: mama02.wav
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Audio\Pong\mama02.wav
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama02.wav
+            projectPath: Assets\Audio\Pong\mama02.wav
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Audio\Pong\mama03.wav
+          label: mama03.wav
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Audio\Pong\mama03.wav
+            fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama03.wav
+            projectPath: Assets\Audio\Pong\mama03.wav
+            originalPath: 
+            status: 1
+            staged: 0
+      folders:
+        keys:
+        - Assets
+        - Assets\Audio
+        - Assets\Audio\Pong
+        - Library
+        - Library\gfu
+        - Library\gfu\cache
+        - Library\StateCache
+        - Library\StateCache\Hierarchy
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Audio
+          label: Audio
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Audio\Pong
+          label: Pong
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1228,6 +1420,42 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
+        - path: Library\StateCache
+          label: StateCache
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Library\StateCache\Hierarchy
+          label: Hierarchy
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
       checkedFileNodes:
         keys: []
         values: []
@@ -1256,12 +1484,12 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: .vs
-        label: .vs
+      - path: Assets
+        label: Assets
         level: 0
         isFolder: 1
         isContainer: 0
-        isCollapsed: 1
+        isCollapsed: 0
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
@@ -1274,13 +1502,13 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: .vs\LazyPeppersProject
-        label: LazyPeppersProject
+      - path: Assets\Audio
+        label: Audio
         level: 1
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 1
+        isHidden: 0
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1292,13 +1520,13 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: .vs\LazyPeppersProject\v15
-        label: v15
+      - path: Assets\Audio\Pong
+        label: Pong
         level: 2
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 1
+        isHidden: 0
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1310,23 +1538,131 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: .vs\LazyPeppersProject\v15\.suo
-        label: .suo
+      - path: Assets\Audio\Pong\creeperski_theme_background.ogg
+        label: creeperski_theme_background.ogg
         level: 3
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 1
+        isHidden: 0
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: .vs\LazyPeppersProject\v15\.suo
-          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
-          projectPath: .vs\LazyPeppersProject\v15\.suo
+          path: Assets\Audio\Pong\creeperski_theme_background.ogg
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\creeperski_theme_background.ogg
+          projectPath: Assets\Audio\Pong\creeperski_theme_background.ogg
           originalPath: 
-          status: 3
+          status: 1
+          staged: 0
+      - path: Assets\Audio\Pong\dada01.wav
+        label: dada01.wav
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Audio\Pong\dada01.wav
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada01.wav
+          projectPath: Assets\Audio\Pong\dada01.wav
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Audio\Pong\dada02.wav
+        label: dada02.wav
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Audio\Pong\dada02.wav
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada02.wav
+          projectPath: Assets\Audio\Pong\dada02.wav
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Audio\Pong\dada03.wav
+        label: dada03.wav
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Audio\Pong\dada03.wav
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada03.wav
+          projectPath: Assets\Audio\Pong\dada03.wav
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Audio\Pong\mama01.wav
+        label: mama01.wav
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Audio\Pong\mama01.wav
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama01.wav
+          projectPath: Assets\Audio\Pong\mama01.wav
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Audio\Pong\mama02.wav
+        label: mama02.wav
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Audio\Pong\mama02.wav
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama02.wav
+          projectPath: Assets\Audio\Pong\mama02.wav
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Audio\Pong\mama03.wav
+        label: mama03.wav
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Audio\Pong\mama03.wav
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama03.wav
+          projectPath: Assets\Audio\Pong\mama03.wav
+          originalPath: 
+          status: 1
           staged: 0
       - path: Library
         label: Library
@@ -1361,6 +1697,24 @@ MonoBehaviour:
           path: Library\assetDatabase3
           fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
           projectPath: Library\assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Library\CurrentMaximizeLayout.dwlt
+        label: CurrentMaximizeLayout.dwlt
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\CurrentMaximizeLayout.dwlt
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentMaximizeLayout.dwlt
+          projectPath: Library\CurrentMaximizeLayout.dwlt
           originalPath: 
           status: 3
           staged: 0
@@ -1418,6 +1772,24 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
+      - path: Library\gfu\cache\gitlocks.yaml
+        label: gitlocks.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
       - path: Library\gfu\cache\gitlog.yaml
         label: gitlog.yaml
         level: 3
@@ -1472,6 +1844,78 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
+      - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+        label: shadercompiler-UnityShaderCompiler.exe0.log
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+          projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Library\StateCache
+        label: StateCache
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\StateCache\Hierarchy
+        label: Hierarchy
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+        label: bc2425-mainStage.json
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+          fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\Hierarchy\bc2425-mainStage.json
+          projectPath: Library\StateCache\Hierarchy\bc2425-mainStage.json
+          originalPath: 
+          status: 3
+          staged: 0
       selectedNode:
         path: 
         label: 
@@ -1492,11 +1936,47 @@ MonoBehaviour:
           status: 0
           staged: 0
     gitStatusEntries:
-    - path: .vs\LazyPeppersProject\v15\.suo
-      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
-      projectPath: .vs\LazyPeppersProject\v15\.suo
+    - path: Assets\Audio\Pong\creeperski_theme_background.ogg
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\creeperski_theme_background.ogg
+      projectPath: Assets\Audio\Pong\creeperski_theme_background.ogg
       originalPath: 
-      status: 3
+      status: 1
+      staged: 0
+    - path: Assets\Audio\Pong\dada01.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada01.wav
+      projectPath: Assets\Audio\Pong\dada01.wav
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Audio\Pong\dada02.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada02.wav
+      projectPath: Assets\Audio\Pong\dada02.wav
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Audio\Pong\dada03.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\dada03.wav
+      projectPath: Assets\Audio\Pong\dada03.wav
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Audio\Pong\mama01.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama01.wav
+      projectPath: Assets\Audio\Pong\mama01.wav
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Audio\Pong\mama02.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama02.wav
+      projectPath: Assets\Audio\Pong\mama02.wav
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Audio\Pong\mama03.wav
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\mama03.wav
+      projectPath: Assets\Audio\Pong\mama03.wav
+      originalPath: 
+      status: 1
       staged: 0
     - path: Library\assetDatabase3
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\assetDatabase3
@@ -1504,9 +1984,21 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
     - path: Library\gfu\cache\branches.yaml
       fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\branches.yaml
       projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
       originalPath: 
       status: 3
       staged: 0
@@ -1528,15 +2020,27 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    changedFilesText: 6 changed files
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\Hierarchy\bc2425-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\bc2425-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    changedFilesText: 16 changed files
     lastCurrentBranchChangedEvent:
       updatedTimeString: 2019-04-28T03:16:58.639+02:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2019-04-28T04:15:22.526+02:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2019-04-28T04:15:04.194+02:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 6
   historyView:
     currentLogHasUpdate: 0
@@ -32512,7 +33016,7 @@ MonoBehaviour:
   currentRemoteName: origin
   currentBranch: master
   currentRemoteUrl: https://github.com/Zizajer/LazyPeppersProject.git
-  statusAhead: 1
+  statusAhead: 2
   statusBehind: 0
   hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
@@ -32528,10 +33032,10 @@ MonoBehaviour:
     updatedTimeString: 2019-04-28T03:16:58.639+02:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2019-04-28T04:00:05.542+02:00
+    updatedTimeString: 2019-04-28T04:18:23.891+02:00
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2019-04-28T04:00:05.402+02:00
+    updatedTimeString: 2019-04-28T04:20:19.003+02:00
     cacheType: 5
   pullButtonContent:
     m_Text: Pull
@@ -32549,8 +33053,8 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 1
-  repositoryProgressMessage: Reading locks...
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
   appManagerProgressValue: 0
   appManagerProgressMessage: 
   connections: []

@@ -25,4 +25,5 @@ public class PongPlayerMovement : MonoBehaviour
             rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(0, -MovementSpeed * Time.deltaTime));
         }
     }
+    
 }

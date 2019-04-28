@@ -39,6 +39,10 @@ public class CircusCharliePlayerLocalMovement : MonoBehaviour
         {
             Debug.Log("YOU LOST ");
         }
+        if (collision.tag == "EndLine")
+        {
+            Debug.Log("YOU WIN");
+        }
     }
 }
 
