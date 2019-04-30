@@ -273,4 +273,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   video: {fileID: 1302139504}
-  SceneToLoadName: Pacman
+  SceneToLoadName: GameOverScene

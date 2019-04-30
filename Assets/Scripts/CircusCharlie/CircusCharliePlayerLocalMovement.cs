@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class CircusCharliePlayerLocalMovement : MonoBehaviour
 {
@@ -9,11 +10,18 @@ public class CircusCharliePlayerLocalMovement : MonoBehaviour
     public float MoveForce;
     private Rigidbody2D rigidbody2D;
     private bool canJump;
+    private AudioSource audioSource;
+    public AudioClip WinAudioClip;
+    public AudioClip LoseAudioClip;
+    public Text winText;
 
     // Start is called before the first frame update
     void Start()
     {
+        PlayerPrefs.SetString("SceneNameToLoad", SceneManager.GetActiveScene().name);
+        Time.timeScale = 1;
         rigidbody2D = GetComponent<Rigidbody2D>();
+        audioSource = GetComponent<AudioSource>();
         canJump = true;
     }
 
@@ -38,12 +46,21 @@ public class CircusCharliePlayerLocalMovement : MonoBehaviour
     {
         if (collision.tag == "Ring")
         {
-            SceneManager.LoadScene("GameOverScene1");
+            StartCoroutine(playSoundThenLoad(LoseAudioClip, "GameOverScene1"));
         }
         if (collision.tag == "EndLine")
         {
-            SceneManager.LoadScene("VideoScene2");
+            winText.gameObject.SetActive(true);
+            StartCoroutine(playSoundThenLoad(WinAudioClip, "VideoScene2"));
         }
+    }
+
+    private IEnumerator playSoundThenLoad(AudioClip clipToPlay, string sceneNameToLoad)
+    {
+        Time.timeScale = 0;
+        audioSource.PlayOneShot(clipToPlay);
+        yield return new WaitForSecondsRealtime(clipToPlay.length);
+        SceneManager.LoadScene(sceneNameToLoad);
     }
 }
 

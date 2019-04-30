@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PacmanMovement : MonoBehaviour
 {
@@ -11,11 +12,18 @@ public class PacmanMovement : MonoBehaviour
     public int direction;
     public float Force;
     private int lastKnownDirection;
-    
+    private AudioSource audio;
+    public AudioClip WinAudioClip;
+    public AudioClip LoseAudioClip;
+    public Text winText;
+
 
     // Start is called before the first frame update
     void Start()
     {
+        PlayerPrefs.SetString("SceneNameToLoad", SceneManager.GetActiveScene().name);
+        Time.timeScale = 1;
+        audio = GetComponent<AudioSource>();
         rigidbody2D = GetComponent<Rigidbody2D>();
     }
 
@@ -46,30 +54,6 @@ public class PacmanMovement : MonoBehaviour
     {
         MoveByForce(direction);
     }
-/*
-    private void Move(int direction)
-    {
-        if (direction == 1)
-        {
-            rigidbody2D.velocity = new Vector2(0, 0);
-            rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(0, MovementSpeed * Time.deltaTime));
-        }
-        if (direction == 2)
-        {
-            rigidbody2D.velocity = new Vector2(0, 0);
-            rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(0, -MovementSpeed * Time.deltaTime));
-        }
-        if (direction == 3)
-        {
-            rigidbody2D.velocity = new Vector2(0, 0);
-            rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(-MovementSpeed * Time.deltaTime, 0));
-        }
-        if (direction == 4)
-        {
-            rigidbody2D.velocity = new Vector2(0, 0);
-            rigidbody2D.MovePosition(rigidbody2D.position += new Vector2(MovementSpeed * Time.deltaTime, 0));
-        }
-    }*/
 
     private void MoveByForce(int direction)
     {
@@ -114,7 +98,8 @@ public class PacmanMovement : MonoBehaviour
         }
         if(collision.tag == "EndLine")
         {
-            SceneManager.LoadScene("VideoScene5");
+            winText.gameObject.SetActive(true);
+            StartCoroutine(playSoundThenLoad(WinAudioClip, "VideoScene5"));
         }
     }
 
@@ -122,7 +107,15 @@ public class PacmanMovement : MonoBehaviour
     {
         if(collision.collider.tag == "Coronner")
         {
-            SceneManager.LoadScene("GameOverScene4");
+            StartCoroutine(playSoundThenLoad(LoseAudioClip, "GameOverScene4"));
         }
+    }
+
+    private IEnumerator playSoundThenLoad(AudioClip clipToPlay, string sceneNameToLoad)
+    {
+        Time.timeScale = 0;
+        audio.PlayOneShot(clipToPlay);
+        yield return new WaitForSecondsRealtime(clipToPlay.length);
+        SceneManager.LoadScene(sceneNameToLoad);
     }
 }

@@ -15,6 +15,14 @@ public class VideoEnding : MonoBehaviour
         video.loopPointReached += EndReached;
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene(SceneToLoadName);
+        }
+    }
+
     void EndReached(VideoPlayer vp)
     {
         SceneManager.LoadScene(SceneToLoadName);

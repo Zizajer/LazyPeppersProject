@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-28T09:14:55.768+02:00
-  initializedAtString: 2019-04-28T04:36:44.449+02:00
+  lastUpdatedAtString: 2019-04-30T19:35:25.679+02:00
+  initializedAtString: 2019-04-30T18:46:35.907+02:00
   entries:
   - path: .vs\LazyPeppersProject\v15\.suo
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\.suo
@@ -28,43 +28,71 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
   - path: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\.vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
     projectPath: .vs\LazyPeppersProject\v15\Server\sqlite3\storage.ide-wal
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Audio\CircusCharlie\jestesmy razem tyle lat.wav
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\jestesmy
-      razem tyle lat.wav
-    projectPath: Assets\Audio\CircusCharlie\jestesmy razem tyle lat.wav
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Audio\CircusCharlie\pobierzmy sie.wav
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\pobierzmy
-      sie.wav
-    projectPath: Assets\Audio\CircusCharlie\pobierzmy sie.wav
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Audio\Frogger\bensound-theelevatorbossanova.mp3
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Frogger\bensound-theelevatorbossanova.mp3
-    projectPath: Assets\Audio\Frogger\bensound-theelevatorbossanova.mp3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\jestesmy_razem.prefab
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
-    projectPath: Assets\Prefabs\CircleCharlie\PsychoDymki\kochanie_pobierzmy_sie_1.prefab
+  - path: Assets\Aniamtions\Text.controller
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Aniamtions\Text.controller
+    projectPath: Assets\Aniamtions\Text.controller
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Assets\Aniamtions\WinAnimation.anim
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Aniamtions\WinAnimation.anim
+    projectPath: Assets\Aniamtions\WinAnimation.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Audio\CircusCharlie\wygranko1_mozemy_bez_slubu.wav
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\CircusCharlie\wygranko1_mozemy_bez_slubu.wav
+    projectPath: Assets\Audio\CircusCharlie\wygranko1_mozemy_bez_slubu.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Audio\pacman\onie1.mp3
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\pacman\onie1.mp3
+    projectPath: Assets\Audio\pacman\onie1.mp3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Audio\pacman\onie1.wav
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\pacman\onie1.wav
+    projectPath: Assets\Audio\pacman\onie1.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Audio\Pong\wygranko2_zajme_sie_dzieckiem.wav
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\Pong\wygranko2_zajme_sie_dzieckiem.wav
+    projectPath: Assets\Audio\Pong\wygranko2_zajme_sie_dzieckiem.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Audio\przegrana\przegrales_zycie.wav
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Audio\przegrana\przegrales_zycie.wav
+    projectPath: Assets\Audio\przegrana\przegrales_zycie.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\WinText.prefab
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Prefabs\WinText.prefab
+    projectPath: Assets\Prefabs\WinText.prefab
+    originalPath: 
+    status: 1
     staged: 0
   - path: Assets\Scenes\CircusCharlie.unity
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\CircusCharlie.unity
@@ -77,6 +105,12 @@ MonoBehaviour:
     projectPath: Assets\Scenes\Frogger.unity
     originalPath: 
     status: 3
+    staged: 0
+  - path: Assets\Scenes\GameOverScene.unity
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\GameOverScene.unity
+    projectPath: Assets\Scenes\GameOverScene.unity
+    originalPath: 
+    status: 1
     staged: 0
   - path: Assets\Scenes\GameOverScene1.unity
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\GameOverScene1.unity
@@ -114,39 +148,33 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scenes\VideoScene1.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene1.unity
-    projectPath: Assets\Scenes\VideoScene1.unity
+  - path: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
+    projectPath: Assets\Scripts\CircusCharlie\CircusCharliePlayerLocalMovement.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scenes\VideoScene2.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene2.unity
-    projectPath: Assets\Scenes\VideoScene2.unity
+  - path: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Frogger\FroggerPlayerMovement.cs
+    projectPath: Assets\Scripts\Frogger\FroggerPlayerMovement.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scenes\VideoScene3.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene3.unity
-    projectPath: Assets\Scenes\VideoScene3.unity
+  - path: Assets\Scripts\GameOverScene\PlayerChoose.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\GameOverScene\PlayerChoose.cs
+    projectPath: Assets\Scripts\GameOverScene\PlayerChoose.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Pacman\Coronner.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pacman\Coronner.cs
+    projectPath: Assets\Scripts\Pacman\Coronner.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scenes\VideoScene4.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene4.unity
-    projectPath: Assets\Scenes\VideoScene4.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scenes\VideoScene5.unity
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scenes\VideoScene5.unity
-    projectPath: Assets\Scenes\VideoScene5.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scripts\Pong\AIPongPlayerMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pong\AIPongPlayerMovement.cs
-    projectPath: Assets\Scripts\Pong\AIPongPlayerMovement.cs
+  - path: Assets\Scripts\Pacman\PacmanMovement.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pacman\PacmanMovement.cs
+    projectPath: Assets\Scripts\Pacman\PacmanMovement.cs
     originalPath: 
     status: 3
     staged: 0
@@ -156,89 +184,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scripts\Pong\PongPlayerMovement.cs
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Pong\PongPlayerMovement.cs
-    projectPath: Assets\Scripts\Pong\PongPlayerMovement.cs
+  - path: Assets\Scripts\Video\VideoEnding.cs
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Scripts\Video\VideoEnding.cs
+    projectPath: Assets\Scripts\Video\VideoEnding.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Sprites\piotrek_head_noshoulders.png
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\piotrek_head_noshoulders.png
-    projectPath: Assets\Sprites\piotrek_head_noshoulders.png
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Videos\game-over01_2.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game-over01_2.mp4
-    projectPath: Assets\Videos\game-over01_2.mp4
+  - path: Assets\Sprites\BackGrounds\PRZEGRALES.png
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Sprites\BackGrounds\PRZEGRALES.png
+    projectPath: Assets\Sprites\BackGrounds\PRZEGRALES.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Videos\game-over02_2.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game-over02_2.mp4
-    projectPath: Assets\Videos\game-over02_2.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\game-over03_2.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game-over03_2.mp4
-    projectPath: Assets\Videos\game-over03_2.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\game-over04_2.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\game-over04_2.mp4
-    projectPath: Assets\Videos\game-over04_2.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\ostatnia-wygranko.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\ostatnia-wygranko.mp4
-    projectPath: Assets\Videos\ostatnia-wygranko.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka01_2.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka01_2.mp4
-    projectPath: Assets\Videos\scenka01_2.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka02_2.mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka02_2.mp4
-    projectPath: Assets\Videos\scenka02_2.mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka03 (1).mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka03
-      (1).mp4
-    projectPath: Assets\Videos\scenka03 (1).mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Videos\scenka04 (1).mp4
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Assets\Videos\scenka04
-      (1).mp4
-    projectPath: Assets\Videos\scenka04 (1).mp4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject.exe
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject.exe
-    projectPath: Build 2 0\LazyPeppersProject.exe
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\app.info
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\app.info
-    projectPath: Build 2 0\LazyPeppersProject_Data\app.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\boot.config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\boot.config
-    projectPath: Build 2 0\LazyPeppersProject_Data\boot.config
+  - path: Build 2 0.rar
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0.rar
+    projectPath: Build 2 0.rar
     originalPath: 
     status: 1
     staged: 0
@@ -246,1320 +206,1404 @@ MonoBehaviour:
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\globalgamemanagers
     projectPath: Build 2 0\LazyPeppersProject_Data\globalgamemanagers
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\globalgamemanagers.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\globalgamemanagers.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\globalgamemanagers.assets
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level0
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level0
-    projectPath: Build 2 0\LazyPeppersProject_Data\level0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level1
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level1
-    projectPath: Build 2 0\LazyPeppersProject_Data\level1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level10
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level10
-    projectPath: Build 2 0\LazyPeppersProject_Data\level10
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level11
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level11
-    projectPath: Build 2 0\LazyPeppersProject_Data\level11
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level12
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level12
-    projectPath: Build 2 0\LazyPeppersProject_Data\level12
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level2
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level2
-    projectPath: Build 2 0\LazyPeppersProject_Data\level2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level3
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level3
-    projectPath: Build 2 0\LazyPeppersProject_Data\level3
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Build 2 0\LazyPeppersProject_Data\level4
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level4
     projectPath: Build 2 0\LazyPeppersProject_Data\level4
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level5
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level5
-    projectPath: Build 2 0\LazyPeppersProject_Data\level5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level6
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level6
-    projectPath: Build 2 0\LazyPeppersProject_Data\level6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level7
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level7
-    projectPath: Build 2 0\LazyPeppersProject_Data\level7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level8
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level8
-    projectPath: Build 2 0\LazyPeppersProject_Data\level8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\level9
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\level9
-    projectPath: Build 2 0\LazyPeppersProject_Data\level9
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Build 2 0\LazyPeppersProject_Data\Managed\Assembly-CSharp.dll
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\Assembly-CSharp.dll
     projectPath: Build 2 0\LazyPeppersProject_Data\Managed\Assembly-CSharp.dll
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\Mono.Security.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\Mono.Security.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\Mono.Security.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\mscorlib.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\mscorlib.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\mscorlib.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\netstandard.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\netstandard.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\netstandard.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.ComponentModel.Composition.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.ComponentModel.Composition.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.ComponentModel.Composition.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Configuration.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Configuration.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Configuration.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Core.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Core.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Core.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Data.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Data.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Data.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Diagnostics.StackTrace.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Diagnostics.StackTrace.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Diagnostics.StackTrace.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Drawing.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Drawing.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Drawing.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.EnterpriseServices.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.EnterpriseServices.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.EnterpriseServices.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Globalization.Extensions.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Globalization.Extensions.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Globalization.Extensions.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.IO.Compression.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.IO.Compression.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.IO.Compression.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.IO.Compression.FileSystem.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.IO.Compression.FileSystem.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.IO.Compression.FileSystem.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Net.Http.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Net.Http.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Net.Http.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Numerics.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Numerics.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Numerics.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.Xml.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.Xml.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.Xml.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.ServiceModel.Internals.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.ServiceModel.Internals.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.ServiceModel.Internals.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Transactions.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Transactions.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Transactions.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.Linq.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.Linq.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.Linq.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.XPath.XDocument.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.XPath.XDocument.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\System.Xml.XPath.XDocument.dll
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Build 2 0\LazyPeppersProject_Data\Managed\Unity.Analytics.DataPrivacy.dll
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\Unity.Analytics.DataPrivacy.dll
     projectPath: Build 2 0\LazyPeppersProject_Data\Managed\Unity.Analytics.DataPrivacy.dll
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Build 2 0\LazyPeppersProject_Data\Managed\Unity.TextMeshPro.dll
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\Unity.TextMeshPro.dll
     projectPath: Build 2 0\LazyPeppersProject_Data\Managed\Unity.TextMeshPro.dll
     originalPath: 
+    status: 3
+    staged: 0
+  - path: Build 2 2.rar
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 2.rar
+    projectPath: Build 2 2.rar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3.rar
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3.rar
+    projectPath: Build 2 3.rar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject.exe
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject.exe
+    projectPath: Build 2 3\LazyPeppersProject.exe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\app.info
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\app.info
+    projectPath: Build 2 3\LazyPeppersProject_Data\app.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\boot.config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\boot.config
+    projectPath: Build 2 3\LazyPeppersProject_Data\boot.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\globalgamemanagers
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\globalgamemanagers
+    projectPath: Build 2 3\LazyPeppersProject_Data\globalgamemanagers
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\globalgamemanagers.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\globalgamemanagers.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\globalgamemanagers.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level0
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level0
+    projectPath: Build 2 3\LazyPeppersProject_Data\level0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level1
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level1
+    projectPath: Build 2 3\LazyPeppersProject_Data\level1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level10
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level10
+    projectPath: Build 2 3\LazyPeppersProject_Data\level10
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level11
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level11
+    projectPath: Build 2 3\LazyPeppersProject_Data\level11
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level12
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level12
+    projectPath: Build 2 3\LazyPeppersProject_Data\level12
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level13
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level13
+    projectPath: Build 2 3\LazyPeppersProject_Data\level13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level2
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level2
+    projectPath: Build 2 3\LazyPeppersProject_Data\level2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level3
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level3
+    projectPath: Build 2 3\LazyPeppersProject_Data\level3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level4
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level4
+    projectPath: Build 2 3\LazyPeppersProject_Data\level4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level5
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level5
+    projectPath: Build 2 3\LazyPeppersProject_Data\level5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level6
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level6
+    projectPath: Build 2 3\LazyPeppersProject_Data\level6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level7
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level7
+    projectPath: Build 2 3\LazyPeppersProject_Data\level7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level8
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level8
+    projectPath: Build 2 3\LazyPeppersProject_Data\level8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\level9
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\level9
+    projectPath: Build 2 3\LazyPeppersProject_Data\level9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\Assembly-CSharp.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\Mono.Security.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\mscorlib.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\mscorlib.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\mscorlib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\netstandard.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\netstandard.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\netstandard.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Configuration.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Configuration.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Configuration.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Core.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Core.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Core.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Data.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Data.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Data.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Drawing.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Drawing.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Drawing.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.EnterpriseServices.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Globalization.Extensions.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Globalization.Extensions.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.IO.Compression.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Net.Http.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Net.Http.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Numerics.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Numerics.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Numerics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Transactions.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Transactions.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Transactions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.Linq.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\Unity.Analytics.DataPrivacy.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AccessibilityModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AIModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AnimationModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ARModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AssetBundleModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.AudioModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.BaselibModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClothModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterInputModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ClusterRendererModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CoreModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.CrashReportingModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.DirectorModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.FileSystemHttpModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GameCenterModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.GridModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.HotReloadModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ImageConversionModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.IMGUIModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.InputModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.JSONSerializeModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.LocalizationModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Networking.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Networking.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Networking.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Networking.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Networking.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Networking.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ParticleSystemModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PerformanceReportingModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Physics2DModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.PhysicsModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ProfilerModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.ScreenCaptureModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SharedInternalsModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpatialTracking.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpatialTracking.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpatialTracking.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteMaskModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SpriteShapeModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StreamingModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.StyleSheetsModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.SubstanceModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextCoreModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TextRenderingModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TilemapModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Timeline.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Timeline.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.Timeline.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Timeline.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Timeline.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.Timeline.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TimelineModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.TLSModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UI.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UI.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UI.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UI.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UI.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIElementsModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UIModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UmbraModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UNETModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityConnectModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VehiclesModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VFXModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VideoModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.VRModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.WindModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.dll
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.dll
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.xml
-    projectPath: Build 2 0\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.xml
+  - path: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.xml
+    projectPath: Build 2 3\LazyPeppersProject_Data\Managed\UnityEngine.XRModule.xml
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Resources\unity default resources
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Resources\unity
+  - path: Build 2 3\LazyPeppersProject_Data\Resources\unity default resources
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Resources\unity
       default resources
-    projectPath: Build 2 0\LazyPeppersProject_Data\Resources\unity default resources
+    projectPath: Build 2 3\LazyPeppersProject_Data\Resources\unity default resources
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\Resources\unity_builtin_extra
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\Resources\unity_builtin_extra
-    projectPath: Build 2 0\LazyPeppersProject_Data\Resources\unity_builtin_extra
+  - path: Build 2 3\LazyPeppersProject_Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\Resources\unity_builtin_extra
+    projectPath: Build 2 3\LazyPeppersProject_Data\Resources\unity_builtin_extra
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets0.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets0.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets0.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets0.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets0.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets0.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets0.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets0.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets0.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets0.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets0.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets0.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets1.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets1.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets1.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets1.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets1.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets1.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets1.assets.resS
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets1.assets.resS
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets1.assets.resS
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets1.assets.resS
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets1.assets.resS
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets1.assets.resS
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets1.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets1.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets1.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets1.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets1.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets1.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets10.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets10.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets10.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets10.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets10.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets10.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets10.assets.resS
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets10.assets.resS
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets10.assets.resS
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets10.assets.resS
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets10.assets.resS
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets10.assets.resS
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets10.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets10.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets10.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets10.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets10.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets10.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets11.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets11.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets11.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets11.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets11.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets11.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets11.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets11.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets11.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets11.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets11.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets11.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets12.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets12.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets12.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets12.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets12.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets12.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets12.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets12.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets12.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets12.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets12.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets12.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets2.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets2.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets2.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets13.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets13.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets13.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets2.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets2.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets2.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets13.assets.resS
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets13.assets.resS
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets13.assets.resS
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets3.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets3.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets3.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets13.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets13.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets13.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets3.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets3.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets3.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets2.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets2.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets2.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets4.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets4.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets4.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets2.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets2.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets2.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets4.assets.resS
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets4.assets.resS
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets4.assets.resS
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets3.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets3.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets3.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets4.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets4.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets4.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets3.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets3.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets3.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets5.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets5.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets5.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets4.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets4.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets4.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets5.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets5.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets5.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets4.assets.resS
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets4.assets.resS
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets4.assets.resS
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets6.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets6.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets6.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets4.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets4.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets4.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets6.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets6.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets6.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets5.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets5.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets5.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets7.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets7.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets7.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets5.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets5.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets5.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets7.assets.resS
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets7.assets.resS
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets7.assets.resS
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets6.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets6.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets6.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets7.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets7.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets7.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets6.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets6.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets6.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets8.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets8.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets8.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets7.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets7.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets7.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets8.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets8.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets8.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets7.assets.resS
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets7.assets.resS
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets7.assets.resS
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets9.assets
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets9.assets
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets9.assets
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets7.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets7.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets7.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\LazyPeppersProject_Data\sharedassets9.resource
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\LazyPeppersProject_Data\sharedassets9.resource
-    projectPath: Build 2 0\LazyPeppersProject_Data\sharedassets9.resource
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets8.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets8.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets8.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
-    projectPath: Build 2 0\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets8.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets8.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets8.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
-    projectPath: Build 2 0\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets9.assets
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets9.assets
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets9.assets
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+  - path: Build 2 3\LazyPeppersProject_Data\sharedassets9.resource
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\LazyPeppersProject_Data\sharedassets9.resource
+    projectPath: Build 2 3\LazyPeppersProject_Data\sharedassets9.resource
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+  - path: Build 2 3\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: Build 2 3\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\2.0\machine.config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\2.0\machine.config
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\2.0\machine.config
+  - path: Build 2 3\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: Build 2 3\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\2.0\settings.map
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\2.0\settings.map
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\2.0\settings.map
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\2.0\web.config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\2.0\web.config
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\2.0\web.config
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\2.0\machine.config
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\2.0\settings.map
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.0\machine.config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.0\machine.config
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.0\machine.config
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\2.0\web.config
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.0\settings.map
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.0\settings.map
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.0\settings.map
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.0\web.config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.0\web.config
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.0\web.config
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.0\machine.config
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.0\settings.map
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.5\machine.config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.5\machine.config
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.5\machine.config
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.0\web.config
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.5\settings.map
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.5\settings.map
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.5\settings.map
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\4.5\web.config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\4.5\web.config
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\4.5\web.config
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\browscap.ini
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\browscap.ini
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\browscap.ini
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.5\machine.config
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\config
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\config
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\config
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.5\settings.map
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\MonoBleedingEdge\etc\mono\mconfig\config.xml
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\MonoBleedingEdge\etc\mono\mconfig\config.xml
-    projectPath: Build 2 0\MonoBleedingEdge\etc\mono\mconfig\config.xml
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\4.5\web.config
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\UnityCrashHandler64.exe
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\UnityCrashHandler64.exe
-    projectPath: Build 2 0\UnityCrashHandler64.exe
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\browscap.ini
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\UnityPlayer.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\UnityPlayer.dll
-    projectPath: Build 2 0\UnityPlayer.dll
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\config
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\config
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\config
     originalPath: 
     status: 1
     staged: 0
-  - path: Build 2 0\WinPixEventRuntime.dll
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 0\WinPixEventRuntime.dll
-    projectPath: Build 2 0\WinPixEventRuntime.dll
+  - path: Build 2 3\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: Build 2 3\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\UnityCrashHandler64.exe
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\UnityCrashHandler64.exe
+    projectPath: Build 2 3\UnityCrashHandler64.exe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\UnityPlayer.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\UnityPlayer.dll
+    projectPath: Build 2 3\UnityPlayer.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Build 2 3\WinPixEventRuntime.dll
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Build 2 3\WinPixEventRuntime.dll
+    projectPath: Build 2 3\WinPixEventRuntime.dll
     originalPath: 
     status: 1
     staged: 0
@@ -1569,9 +1613,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\EditorUserBuildSettings.asset
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\EditorUserBuildSettings.asset
     projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     status: 3
     staged: 0
@@ -1603,6 +1659,24 @@ MonoBehaviour:
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
     status: 3
     staged: 0
   - path: Library\metadata\46\467448a130f3dff4d9d3370ffc6ef790
@@ -1611,9 +1685,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\8e\8eb35bd6d6552ab4fa1e6c25feb21059
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\8e\8eb35bd6d6552ab4fa1e6c25feb21059
-    projectPath: Library\metadata\8e\8eb35bd6d6552ab4fa1e6c25feb21059
+  - path: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
+    projectPath: Library\metadata\ba\ba72a3fc97453f24382303913d9d4d82
     originalPath: 
     status: 3
     staged: 0
@@ -1634,12 +1708,6 @@ MonoBehaviour:
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
     staged: 0
   - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
@@ -1686,6 +1754,24 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\747686-mainStage.json
     fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\Library\StateCache\SceneView\747686-mainStage.json
     projectPath: Library\StateCache\SceneView\747686-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\zizi5\Documents\Projekty Unity\LazyPeppersProject\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0

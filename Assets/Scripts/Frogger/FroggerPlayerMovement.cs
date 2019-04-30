@@ -2,17 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class FroggerPlayerMovement : MonoBehaviour
 {
     public float MovementSpeed;
     private AudioSource audioSource;
+    public AudioClip WinAudioClip;
+    public AudioClip LoseAudioClip;
+    public Text winText;
 
     // Start is called before the first frame update
     void Start()
     {
+        PlayerPrefs.SetString("SceneNameToLoad", SceneManager.GetActiveScene().name);
+        Time.timeScale = 1;
         audioSource = GetComponent<AudioSource>();
-        
     }
 
     // Update is called once per frame
@@ -36,13 +41,20 @@ public class FroggerPlayerMovement : MonoBehaviour
     {
         if(collision.tag == "EndLine")
         {
-            if (audioSource != null)
-                audioSource.Play();
-            SceneManager.LoadScene("VideoScene4");
+            winText.gameObject.SetActive(true);
+            StartCoroutine(playSoundThenLoad(WinAudioClip, "VideoScene4"));
         }
         if (collision.tag == "Obstacle")
         {
-            SceneManager.LoadScene("GameOverScene3");
+            StartCoroutine(playSoundThenLoad(LoseAudioClip, "GameOverScene3"));
         }
+    }
+
+    private IEnumerator playSoundThenLoad(AudioClip clipToPlay, string sceneNameToLoad)
+    {
+        Time.timeScale = 0;
+        audioSource.PlayOneShot(clipToPlay);
+        yield return new WaitForSecondsRealtime(clipToPlay.length);
+        SceneManager.LoadScene(sceneNameToLoad);
     }
 }

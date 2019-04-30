@@ -17,6 +17,7 @@ public class Coronner : MonoBehaviour
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
+        Invoke("ChangeDirection", 2f);
     }
 
     // Update is called once per frame
@@ -25,8 +26,9 @@ public class Coronner : MonoBehaviour
         Debug.Log(isMoving.ToString());
         if (isMoving == false)
         {
-            direction = Random.Range(1, 4);
+            direction = Random.Range(1, 5);
         }
+
     }
 
     private void FixedUpdate()
@@ -68,13 +70,19 @@ public class Coronner : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.collider.tag == "Wall" || collision.collider.tag == "Coronner")
+        if (collision.collider.tag == "Wall" || collision.collider.tag == "EndLine")
         {
             isMoving = false;
             lastKnownDirection = direction;
             Debug.Log(lastKnownDirection);
-            rigidbody2D.velocity = new Vector2(0, 0);
+            direction = Random.Range(1, 5);
         }
     }
     
+    private void ChangeDirection()
+    {
+        direction = Random.Range(1, 5);
+        Invoke("ChangeDirection", 2f);
+    }
+
 }
